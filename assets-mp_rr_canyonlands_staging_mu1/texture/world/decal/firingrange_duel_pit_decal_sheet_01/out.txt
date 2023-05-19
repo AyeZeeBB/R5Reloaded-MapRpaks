@@ -1,0 +1,10 @@
+[18:03:36] [I] Material Info for 'firingrange_duel_pit_decal_sheet_01' (4AFD658151305F7B)
+[18:03:36] [I] > Flags: 001D0300
+[18:03:36] [I] > Unk2: 0
+[18:03:36] [I] > Unk3: 1F5A92BD
+[18:03:36] [I] > ShaderSet: 3987db02d6678217 (LOADED)
+[18:03:36] [I] > 4 textures:
+[18:03:36] [I] >> 0: 0xa013c9657d244b16 - firingrange_duel_pit_decal_sheet_01_albedoTexture.dds
+[18:03:36] [I] >> 1: 0x367149e886ad60ea - firingrange_duel_pit_decal_sheet_01_normalTexture.dds
+[18:03:38] [I] >> 2: 0x820729c2819c7915 - firingrange_duel_pit_decal_sheet_01_glossTexture.dds
+[18:03:38] [I] >> 3: 0x846a0415c42df29 - firingrange_duel_pit_decal_sheet_01_opacityMultiplyTexture.dds

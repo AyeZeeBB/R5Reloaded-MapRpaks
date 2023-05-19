@@ -1,0 +1,326 @@
+{
+  "$mapversion": 1,
+  "version": 8,
+  "keepDevOnly": true,
+
+  "assetsDir": "./assets-mp_rr_canyonlands_staging_mu1/",
+  "outputDir": "./build/",
+  "name": "mp_rr_canyonlands_staging_mu1",
+
+  "files": [
+    {
+      "$type": "shds",
+      "path": "FixedVertexShaderSet",
+      "textures": 6,
+      "samplers": 3,
+      "vertex": 15390381051536392122,
+      "pixel": 6842977824030297585
+    },
+    {
+      "$type": "txtrlist",
+      "textures": [
+        "texture/world/floors/rubber_floor_2/rubber_floor_2_albedoTexture",
+        "texture/world/floors/rubber_floor_2/rubber_floor_2_normalTexture",
+        "texture/world/floors/rubber_floor_2/rubber_floor_2_glossTexture",
+        "texture/world/floors/rubber_floor_2/rubber_floor_2_cavityTexture"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "WORLD/BOOMTOWN/RUBBER_TILE_01",
+      "type": "wldc",
+      "shaderset": 3134464214606249681,
+      "width": 1024,
+      "height": 1024,
+      "textures": ["_col", "_nml", "_gls/_exp", "_spc", "_ilm", "_ao", "_cav/cvt"]
+    },
+    {
+      "$type": "matl",
+      "path": "WORLD/CONCRETE/CONCRETE_WALL_DIRTY_02_WET_BM",
+      "type": "wldc",
+      "shaderset": 3134464214606249681,
+      "width": 1024,
+      "height": 1024,
+      "textures": ["_col", "_nml", "_gls/_exp", "_spc", "_ilm", "_ao", "_cav/cvt"]
+    },
+    {
+      "$type": "matl",
+      "path": "WORLD/DEV/DEV_RED_512",
+      "type": "wldc",
+      "shaderset": 3134464214606249681,
+      "width": 1024,
+      "height": 1024,
+      "textures": ["_col", "_nml", "_gls/_exp", "_spc", "_ilm", "_ao", "_cav/cvt"]
+    },
+    {
+      "$type": "matl",
+      "path": "world/metal/olympus_painted_metal/olympus_metal_painted_01_vc",
+      "type": "wldc",
+      "shaderset": 3134464214606249681,
+      "width": 1024,
+      "height": 1024,
+      "textures": ["_col", "_nml", "_gls/_exp", "_spc", "_ilm", "_ao", "_cav/cvt"]
+    },
+    {
+      "$type": "matl",
+      "path": "world/utility/divided_solar_panel_01a/divided_solar_panel_01a",
+      "type": "wldc",
+      "shaderset": 3134464214606249681,
+      "width": 1024,
+      "height": 1024,
+      "textures": ["_col", "_nml", "_gls/_exp", "_spc", "_ilm", "_ao", "_cav/cvt"]
+    },
+    {
+      "$type": "matl",
+      "path": "world/mud/homestead_mud_02_to_canyonlands_crater_mud_02_bm",
+      "type": "wldc",
+      "shaderset": 3134464214606249681,
+      "width": 1024,
+      "height": 1024,
+      "textures": ["_col", "_nml", "_gls/_exp", "_spc", "_ilm", "_ao", "_cav/cvt"]
+    },
+    {
+      "$type": "matl",
+      "path": "world/mud/canyonlands_crater_mud_02_to_sand_desert_02_reverse_wld",
+      "type": "wldc",
+      "shaderset": 3134464214606249681,
+      "width": 1024,
+      "height": 1024,
+      "textures": ["_col", "_nml", "_gls/_exp", "_spc", "_ilm", "_ao", "_cav/cvt"]
+    },
+    {
+      "$type": "matl",
+      "path": "world/water/water_dirty_03_vert_alpha",
+      "type": "wldc",
+      "shaderset": 3134464214606249681,
+      "width": 1024,
+      "height": 1024,
+      "textures": ["_col", "_nml", "_gls/_exp", "_spc", "_ilm", "_ao", "_cav/cvt"]
+    },
+    {
+      "$type": "matl",
+      "path": "world/beacon/padded_panel_construction_01_vc",
+      "type": "wldc",
+      "shaderset": 3134464214606249681,
+      "width": 1024,
+      "height": 1024,
+      "textures": ["_col", "_nml", "_gls/_exp", "_spc", "_ilm", "_ao", "_cav/cvt"]
+    },
+    {
+      "$type": "matl",
+      "path": "world/ola/sewers_wall_01_wet_01_bm",
+      "type": "wldc",
+      "shaderset": 3134464214606249681,
+      "width": 1024,
+      "height": 1024,
+      "textures": ["_col", "_nml", "_gls/_exp", "_spc", "_ilm", "_ao", "_cav/cvt"]
+    },
+    {
+      "$type": "matl",
+      "path": "models/mendoko/interior/padded_panel_mendoko_02/padded_panel_mendoko_02",
+      "type": "wldc",
+      "shaderset": 3134464214606249681,
+      "width": 1024,
+      "height": 1024,
+      "textures": ["_col", "_nml", "_gls/_exp", "_spc", "_ilm", "_ao", "_cav/cvt"]
+    },
+    {
+      "$type": "matl",
+      "path": "world/mcor/mcor_floor_panel_02",
+      "type": "wldc",
+      "shaderset": 3134464214606249681,
+      "width": 1024,
+      "height": 1024,
+      "textures": ["_col", "_nml", "_gls/_exp", "_spc", "_ilm", "_ao", "_cav/cvt"]
+    },
+    {
+      "$type": "matl",
+      "path": "world/concrete/concrete_floor_01_bright_grey_bm_vc",
+      "type": "wldc",
+      "shaderset": 3134464214606249681,
+      "width": 1024,
+      "height": 1024,
+      "textures": ["_col", "_nml", "_gls/_exp", "_spc", "_ilm", "_ao", "_cav/cvt"]
+    },
+    {
+      "$type": "matl",
+      "path": "models/canyonlands/firing_range_mu1_town_kit_01/firing_range_kit_mat_01b",
+      "type": "wldc",
+      "shaderset": 3134464214606249681,
+      "width": 1024,
+      "height": 1024,
+      "textures": ["_col", "_nml", "_gls/_exp", "_spc", "_ilm", "_ao", "_cav/cvt"]
+    },
+    {
+      "$type": "matl",
+      "path": "world/concrete/dam_concrete_02_grey_wet_vc_bm",
+      "type": "wldc",
+      "shaderset": 3134464214606249681,
+      "width": 1024,
+      "height": 1024,
+      "textures": ["_col", "_nml", "_gls/_exp", "_spc", "_ilm", "_ao", "_cav/cvt"]
+    },
+    {
+      "$type": "matl",
+      "path": "world/sand/sand_desert_02_to_beacon_metal_panel_grey",
+      "type": "wldc",
+      "shaderset": 3134464214606249681,
+      "width": 1024,
+      "height": 1024,
+      "textures": ["_col", "_nml", "_gls/_exp", "_spc", "_ilm", "_ao", "_cav/cvt"]
+    },
+    {
+      "$type": "matl",
+      "path": "world/sand/sand_desert_02_to_s2s_metal_trims_02_firing_range",
+      "type": "wldc",
+      "shaderset": 3134464214606249681,
+      "width": 1024,
+      "height": 1024,
+      "textures": ["_col", "_nml", "_gls/_exp", "_spc", "_ilm", "_ao", "_cav/cvt"]
+    },
+    {
+      "$type": "matl",
+      "path": "world/sand/sand_desert_02_to_s2s_metal_trims_clean_02",
+      "type": "wldc",
+      "shaderset": 3134464214606249681,
+      "width": 1024,
+      "height": 1024,
+      "textures": ["_col", "_nml", "_gls/_exp", "_spc", "_ilm", "_ao", "_cav/cvt"]
+    },
+    {
+      "$type": "matl",
+      "path": "world/sand/sand_desert_02_to_research_station_painted_firing_range",
+      "type": "wldc",
+      "shaderset": 3134464214606249681,
+      "width": 1024,
+      "height": 1024,
+      "textures": ["_col", "_nml", "_gls/_exp", "_spc", "_ilm", "_ao", "_cav/cvt"]
+    },
+    {
+      "$type": "matl",
+      "path": "world/utility/light_strip_01_vc",
+      "type": "wldc",
+      "shaderset": 3134464214606249681,
+      "width": 1024,
+      "height": 1024,
+      "textures": ["_col", "_nml", "_gls/_exp", "_spc", "_ilm", "_ao", "_cav/cvt"]
+    },
+    {
+      "$type": "matl",
+      "path": "world/beacon/beacon_metal_panel_grey_03/beacon_metal_panel_grey_03_lighter_vc",
+      "type": "wldc",
+      "shaderset": 3134464214606249681,
+      "width": 1024,
+      "height": 1024,
+      "textures": ["_col", "_nml", "_gls/_exp", "_spc", "_ilm", "_ao", "_cav/cvt"]
+    },
+    {
+      "$type": "matl",
+      "path": "world/metal/research_station/research_station_painted_metal_01_vc",
+      "type": "wldc",
+      "shaderset": 3134464214606249681,
+      "width": 1024,
+      "height": 1024,
+      "textures": ["_col", "_nml", "_gls/_exp", "_spc", "_ilm", "_ao", "_cav/cvt"]
+    },
+    {
+      "$type": "matl",
+      "path": "world/timeshift/windows/ts_window01_dark_v1_opaque",
+      "type": "wldc",
+      "shaderset": 3134464214606249681,
+      "width": 1024,
+      "height": 1024,
+      "textures": ["_col", "_nml", "_gls/_exp", "_spc", "_ilm", "_ao", "_cav/cvt"]
+    },
+    {
+      "$type": "matl",
+      "path": "world/dev/dev_white_512_v_color",
+      "type": "wldc",
+      "shaderset": 3134464214606249681,
+      "width": 1024,
+      "height": 1024,
+      "textures": ["_col", "_nml", "_gls/_exp", "_spc", "_ilm", "_ao", "_cav/cvt"]
+    },
+    {
+      "$type": "matl",
+      "path": "world/sleek_city/sleek_city_white_wall_01",
+      "type": "wldc",
+      "shaderset": 3134464214606249681,
+      "width": 1024,
+      "height": 1024,
+      "textures": ["_col", "_nml", "_gls/_exp", "_spc", "_ilm", "_ao", "_cav/cvt"]
+    },
+    {
+      "$type": "matl",
+      "path": "world/boomtown/wf_floating_greeble_01",
+      "type": "wldc",
+      "shaderset": 3134464214606249681,
+      "width": 1024,
+      "height": 1024,
+      "textures": ["_col", "_nml", "_gls/_exp", "_spc", "_ilm", "_ao", "_cav/cvt"]
+    },
+    {
+      "$type": "matl",
+      "path": "world/sand/sand_desert_02_wld_transparent_scroll",
+      "type": "wldc",
+      "shaderset": 3134464214606249681,
+      "width": 1024,
+      "height": 1024,
+      "textures": ["_col", "_nml", "_gls/_exp", "_spc", "_ilm", "_ao", "_cav/cvt"]
+    },
+    {
+      "$type": "matl",
+      "path": "world/decal/firingrange_vert_course_decal_sheet_01",
+      "type": "wldc",
+      "shaderset": 3134464214606249681,
+      "width": 1024,
+      "height": 1024,
+      "textures": ["_col", "_nml", "_gls/_exp", "_spc", "_ilm", "_ao", "_cav/cvt"]
+    },
+    {
+      "$type": "matl",
+      "path": "world/decal/cement_stripes_decals_vert",
+      "type": "wldc",
+      "shaderset": 3134464214606249681,
+      "width": 1024,
+      "height": 1024,
+      "textures": ["_col", "_nml", "_gls/_exp", "_spc", "_ilm", "_ao", "_cav/cvt"]
+    },
+    {
+      "$type": "matl",
+      "path": "world/decal/firing_range_01/firingrange_town_decal_sheet_01a",
+      "type": "wldc",
+      "shaderset": 3134464214606249681,
+      "width": 1024,
+      "height": 1024,
+      "textures": ["_col", "_nml", "_gls/_exp", "_spc", "_ilm", "_ao", "_cav/cvt"]
+    },
+    {
+      "$type": "matl",
+      "path": "world/sand/sand_blend_firing_range",
+      "type": "wldc",
+      "shaderset": 3134464214606249681,
+      "width": 1024,
+      "height": 1024,
+      "textures": ["_col", "_nml", "_gls/_exp", "_spc", "_ilm", "_ao", "_cav/cvt"]
+    },
+    {
+      "$type": "matl",
+      "path": "world/decal/kodai_caution_stripe_decals_vert",
+      "type": "wldc",
+      "shaderset": 3134464214606249681,
+      "width": 1024,
+      "height": 1024,
+      "textures": ["_col", "_nml", "_gls/_exp", "_spc", "_ilm", "_ao", "_cav/cvt"]
+    },
+    {
+      "$type": "matl",
+      "path": "world/decal/firingrange_duel_pit_decal_sheet_01",
+      "type": "wldc",
+      "shaderset": 3134464214606249681,
+      "width": 1024,
+      "height": 1024,
+      "textures": ["_col", "_nml", "_gls/_exp", "_spc", "_ilm", "_ao", "_cav/cvt"]
+    }
+  ]
+}

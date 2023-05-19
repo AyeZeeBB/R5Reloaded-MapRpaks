@@ -1,0 +1,10 @@
+[18:03:03] [I] Material Info for 'sand_blend_firing_range' (912D3F118DD8DC78)
+[18:03:03] [I] > Flags: 001D0300
+[18:03:03] [I] > Unk2: 0
+[18:03:03] [I] > Unk3: 1F5A92BD
+[18:03:03] [I] > ShaderSet: 815cc3054a44c686 (LOADED)
+[18:03:03] [I] > 4 textures:
+[18:03:03] [I] >> 0: 0xd9581fb1a68ab41b - (no assigned name)
+[18:03:03] [I] >> 1: 0x42f58cccc5fbd6be - (no assigned name)
+[18:03:03] [I] >> 2: 0x13662f0be3f9b1f1 - (no assigned name)
+[18:03:03] [I] >> 3: 0x1bcf24241bb03c98 - (no assigned name)

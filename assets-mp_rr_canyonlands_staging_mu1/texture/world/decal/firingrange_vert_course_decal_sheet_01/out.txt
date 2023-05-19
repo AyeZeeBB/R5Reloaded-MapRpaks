@@ -1,0 +1,10 @@
+[18:01:45] [I] Material Info for 'firingrange_vert_course_decal_sheet_01' (5460FCD86D36C99E)
+[18:01:45] [I] > Flags: 001D0300
+[18:01:45] [I] > Unk2: 0
+[18:01:45] [I] > Unk3: 1F5A92BD
+[18:01:45] [I] > ShaderSet: 3987db02d6678217 (LOADED)
+[18:01:45] [I] > 4 textures:
+[18:01:45] [I] >> 0: 0x9e69f34ae487878 - firingrange_vert_course_decal_sheet_01_albedoTexture.dds
+[18:01:45] [I] >> 1: 0xde068bb8ef76c287 - firingrange_vert_course_decal_sheet_01_normalTexture.dds
+[18:01:47] [I] >> 2: 0x13daef564ad86aa0 - firingrange_vert_course_decal_sheet_01_glossTexture.dds
+[18:01:47] [I] >> 3: 0x54f37ad5bb0aae0d - firingrange_vert_course_decal_sheet_01_opacityMultiplyTexture.dds

@@ -1,0 +1,9 @@
+[17:47:04] [I] Material Info for 'olympus_metal_painted_01_vc' (7D88191D736B7055)
+[17:47:04] [I] > Flags: 001D0300
+[17:47:04] [I] > Unk2: 0
+[17:47:04] [I] > Unk3: 1F5A92BD
+[17:47:04] [I] > ShaderSet: 3281811a44cc5c39 (LOADED)
+[17:47:04] [I] > 3 textures:
+[17:47:04] [I] >> 0: 0xdc599d80fb87336a - (no assigned name)
+[17:47:04] [I] >> 1: 0x7351001cc6b54d3a - (no assigned name)
+[17:47:04] [I] >> 2: 0xbe4cfddded63df96 - (no assigned name)

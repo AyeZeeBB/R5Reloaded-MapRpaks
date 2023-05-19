@@ -1,0 +1,15 @@
+[17:51:02] [I] Material Info for 'sewers_wall_01_wet_01_bm' (12A1EB5AF8C418B1)
+[17:51:02] [I] > Flags: 001D0300
+[17:51:02] [I] > Unk2: 0
+[17:51:02] [I] > Unk3: 1F5A92BD
+[17:51:02] [I] > ShaderSet: 327616360cd54c2c (LOADED)
+[17:51:02] [I] > 9 textures:
+[17:51:02] [I] >> 0: 0xee09aca94ae6945d - (no assigned name)
+[17:51:02] [I] >> 1: 0xe16b6ffcb53ea5a6 - (no assigned name)
+[17:51:02] [I] >> 2: 0xc2c37b461c1b32e0 - (no assigned name)
+[17:51:02] [I] >> 3: 0xb6722fa63e1b7955 - (no assigned name)
+[17:51:03] [I] >> 4: 0xf897dee3a2e7b490 - (no assigned name)
+[17:51:03] [I] >> 5: 0xec469343beb42514 - (no assigned name)
+[17:51:03] [I] >> 6: 0x7eeef91aece18985 - (no assigned name)
+[17:51:03] [I] >> 7: 0xbf041aa431a92d97 - (no assigned name)
+[17:51:03] [I] >> 8: 0xc9a4481d1a139249 - (no assigned name)

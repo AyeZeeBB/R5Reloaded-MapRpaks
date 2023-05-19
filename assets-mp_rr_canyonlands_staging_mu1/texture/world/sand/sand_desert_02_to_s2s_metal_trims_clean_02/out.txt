@@ -1,0 +1,17 @@
+[17:56:08] [I] Material Info for 'sand_desert_02_to_s2s_metal_trims_clean_02' (2A351C8BA9F9DDB6)
+[17:56:08] [I] > Flags: 001D0300
+[17:56:08] [I] > Unk2: 0
+[17:56:08] [I] > Unk3: 1F5A92BD
+[17:56:08] [I] > ShaderSet: 24cc2ee4fbdc7238 (LOADED)
+[17:56:08] [I] > 11 textures:
+[17:56:08] [I] >> 0: 0xb5d5b0e26547be47 - sand_desert_02_to_s2s_metal_trims_clean_02_albedoTexture.dds
+[17:56:08] [I] >> 1: 0x9c95cd39f93dc82c - sand_desert_02_to_s2s_metal_trims_clean_02_albedo2Texture.dds
+[17:56:08] [I] >> 2: 0xc8cca0777d357be0 - sand_desert_02_to_s2s_metal_trims_clean_02_normalTexture.dds
+[17:56:10] [I] >> 3: 0xbe4d639c9b3f4288 - sand_desert_02_to_s2s_metal_trims_clean_02_normal2Texture.dds
+[17:56:10] [I] >> 4: 0xd3075bfe8314acde - sand_desert_02_to_s2s_metal_trims_clean_02_glossTexture.dds
+[17:56:10] [I] >> 5: 0xc8881f23a11e7386 - sand_desert_02_to_s2s_metal_trims_clean_02_gloss2Texture.dds
+[17:56:10] [I] >> 6: 0x8f6f859f636a8b41 - sand_desert_02_to_s2s_metal_trims_clean_02_spec2Texture.dds
+[17:56:10] [I] >> 7: 0x19dbb0d96f1e43bd - sand_desert_02_to_s2s_metal_trims_clean_02_ao2Texture.dds
+[17:56:10] [I] >> 8: 0x89c8039d324c8213 - sand_desert_02_to_s2s_metal_trims_clean_02_detailTexture.dds
+[17:56:10] [I] >> 9: 0x9cbef332189b9024 - sand_desert_02_to_s2s_metal_trims_clean_02_detailNormalTexture.dds
+[17:56:10] [I] >> 10: 0x5287d8cce6aa2279 - sand_desert_02_to_s2s_metal_trims_clean_02_layerBlendTexture.dds

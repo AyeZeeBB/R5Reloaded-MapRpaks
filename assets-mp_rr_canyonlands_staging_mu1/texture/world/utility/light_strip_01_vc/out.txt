@@ -1,0 +1,8 @@
+[18:04:38] [I] Material Info for 'light_strip_01_vc' (F953EBFC3DF16B28)
+[18:04:38] [I] > Flags: 001D0300
+[18:04:38] [I] > Unk2: 0
+[18:04:38] [I] > Unk3: 1F5A92BD
+[18:04:38] [I] > ShaderSet: 4328697d9535d7fd (LOADED)
+[18:04:38] [I] > 2 textures:
+[18:04:38] [I] >> 0: 0x3d7bf6a13961ec06 - light_strip_01_vc_albedoTexture.dds
+[18:04:38] [I] >> 1: 0xb876be01a903f292 - light_strip_01_vc_emissiveTexture.dds

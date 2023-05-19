@@ -1,0 +1,17 @@
+[17:55:10] [I] Material Info for 'sand_desert_02_to_beacon_metal_panel_grey' (EB22C307E35C4E52)
+[17:55:10] [I] > Flags: 001D0300
+[17:55:10] [I] > Unk2: 0
+[17:55:10] [I] > Unk3: 1F5A92BD
+[17:55:10] [I] > ShaderSet: 24cc2ee4fbdc7238 (LOADED)
+[17:55:10] [I] > 11 textures:
+[17:55:10] [I] >> 0: 0xb5d5b0e26547be47 - sand_desert_02_to_beacon_metal_panel_grey_albedoTexture.dds
+[17:55:10] [I] >> 1: 0x7c899c287a1f2352 - sand_desert_02_to_beacon_metal_panel_grey_albedo2Texture.dds
+[17:55:10] [I] >> 2: 0xc8cca0777d357be0 - sand_desert_02_to_beacon_metal_panel_grey_normalTexture.dds
+[17:55:12] [I] >> 3: 0x382c5d4adeb3f56e - sand_desert_02_to_beacon_metal_panel_grey_normal2Texture.dds
+[17:55:12] [I] >> 4: 0xd3075bfe8314acde - sand_desert_02_to_beacon_metal_panel_grey_glossTexture.dds
+[17:55:12] [I] >> 5: 0x828e78f3121ed446 - sand_desert_02_to_beacon_metal_panel_grey_gloss2Texture.dds
+[17:55:12] [I] >> 6: 0xe7a71e587042108e - sand_desert_02_to_beacon_metal_panel_grey_spec2Texture.dds
+[17:55:12] [I] >> 7: 0xee9aaaf79b32306 - sand_desert_02_to_beacon_metal_panel_grey_ao2Texture.dds
+[17:55:12] [I] >> 8: 0x89c8039d324c8213 - sand_desert_02_to_beacon_metal_panel_grey_detailTexture.dds
+[17:55:12] [I] >> 9: 0x9cbef332189b9024 - sand_desert_02_to_beacon_metal_panel_grey_detailNormalTexture.dds
+[17:55:12] [I] >> 10: 0x5287d8cce6aa2279 - sand_desert_02_to_beacon_metal_panel_grey_layerBlendTexture.dds

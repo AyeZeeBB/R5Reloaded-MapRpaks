@@ -1,0 +1,9 @@
+[17:58:38] [I] Material Info for 'research_station_painted_metal_01_vc' (E210DD2AABEC2978)
+[17:58:38] [I] > Flags: 001D0300
+[17:58:38] [I] > Unk2: 0
+[17:58:38] [I] > Unk3: 1F5A92BD
+[17:58:38] [I] > ShaderSet: 82e2725d61afd1c0 (NOT LOADED)
+[17:58:38] [I] > 3 textures:
+[17:58:38] [I] >> 0: 0x8128064d5588329a - (no assigned name)
+[17:58:38] [I] >> 1: 0x7e0c055c754ac451 - (no assigned name)
+[17:58:38] [I] >> 2: 0x897a851561b15c57 - (no assigned name)

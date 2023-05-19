@@ -1,0 +1,14 @@
+[17:52:26] [I] Material Info for 'concrete_floor_01_bright_grey_bm_vc' (D9E8BA48F525F357)
+[17:52:26] [I] > Flags: 001D0300
+[17:52:26] [I] > Unk2: 0
+[17:52:26] [I] > Unk3: 1F5A92BD
+[17:52:26] [I] > ShaderSet: de48a2be7072e632 (LOADED)
+[17:52:26] [I] > 8 textures:
+[17:52:26] [I] >> 0: 0xbfcfb72b8d24ffe1 - (no assigned name)
+[17:52:26] [I] >> 1: 0xbfcfb72b8d24ffe1 - (no assigned name)
+[17:52:26] [I] >> 2: 0xf05277c1db4633b6 - (no assigned name)
+[17:52:26] [I] >> 3: 0xcdc1f0a0bd40af62 - (no assigned name)
+[17:52:26] [I] >> 4: 0x396543e4a410703 - (no assigned name)
+[17:52:26] [I] >> 5: 0xdb980d5e324ecadc - (no assigned name)
+[17:52:26] [I] >> 6: 0x97727e47a33003d7 - (no assigned name)
+[17:52:26] [I] >> 7: 0xe2c1af627303e2e2 - (no assigned name)

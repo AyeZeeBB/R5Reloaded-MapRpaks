@@ -1,0 +1,10 @@
+[17:46:30] [I] Material Info for 'dev_red_512' (C6341E84FAB71F60)
+[17:46:30] [I] > Flags: 001D0300
+[17:46:30] [I] > Unk2: 0
+[17:46:30] [I] > Unk3: 1F5A92BD
+[17:46:30] [I] > ShaderSet: 8362a4d5383196bd (NOT LOADED)
+[17:46:30] [I] > 4 textures:
+[17:46:30] [I] >> 0: 0x8ed66c9d01fb67ab - (no assigned name)
+[17:46:30] [I] >> 1: 0x8c9647619e10e9a6 - (no assigned name)
+[17:46:30] [I] >> 2: 0xc26aaaff2b114147 - (no assigned name)
+[17:46:30] [I] >> 3: 0x556001e2ebafd73e - (no assigned name)

@@ -1,0 +1,10 @@
+[17:44:16] [I] Material Info for 'rubber_tile_01' (3AC0E60559E00A8)
+[17:44:16] [I] > Flags: 001D0300
+[17:44:16] [I] > Unk2: 0
+[17:44:16] [I] > Unk3: 1F5A92BD
+[17:44:16] [I] > ShaderSet: afc934f3f1896044 (NOT LOADED)
+[17:44:16] [I] > 4 textures:
+[17:44:16] [I] >> 0: 0x29eca4d68ac2a5e6 - (no assigned name)
+[17:44:16] [I] >> 1: 0x3ce3946b5e763224 - (no assigned name)
+[17:44:16] [I] >> 2: 0x471e4ff26a893913 - (no assigned name)
+[17:44:16] [I] >> 3: 0xe05b66e520c5474 - (no assigned name)

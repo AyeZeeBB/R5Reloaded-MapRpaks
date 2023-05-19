@@ -1,0 +1,10 @@
+[18:00:09] [I] Material Info for 'dev_white_512_v_color' (2434C7F789ADFE8E)
+[18:00:09] [I] > Flags: 001D0300
+[18:00:09] [I] > Unk2: 0
+[18:00:09] [I] > Unk3: 1F5A92BD
+[18:00:09] [I] > ShaderSet: 528d74f67d43c1e0 (NOT LOADED)
+[18:00:09] [I] > 4 textures:
+[18:00:09] [I] >> 0: 0x4c87e0e2043eeedf - (no assigned name)
+[18:00:09] [I] >> 1: 0x8c9647619e10e9a6 - (no assigned name)
+[18:00:09] [I] >> 2: 0xc26aaaff2b114147 - (no assigned name)
+[18:00:09] [I] >> 3: 0x556001e2ebafd73e - (no assigned name)

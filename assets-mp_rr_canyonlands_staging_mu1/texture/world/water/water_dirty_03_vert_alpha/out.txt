@@ -1,0 +1,12 @@
+[17:49:14] [I] Material Info for 'water_dirty_03_vert_alpha' (B1F173493DC7B83)
+[17:49:14] [I] > Flags: 001D0300
+[17:49:14] [I] > Unk2: 0
+[17:49:14] [I] > Unk3: 1F5A92BD
+[17:49:14] [I] > ShaderSet: eea5597137283cf7 (LOADED)
+[17:49:14] [I] > 6 textures:
+[17:49:14] [I] >> 0: 0x4adfb3f21715d08d - (no assigned name)
+[17:49:14] [I] >> 1: 0x1d4ba31572ff7ee2 - (no assigned name)
+[17:49:14] [I] >> 2: 0xd75df2a459a26119 - (no assigned name)
+[17:49:14] [I] >> 3: 0x1d4ba31572ff7ee2 - (no assigned name)
+[17:49:14] [I] >> 4: 0xc70d78a18a85dbb1 - (no assigned name)
+[17:49:14] [I] >> 5: 0xc70d78a18a85dbb1 - (no assigned name)

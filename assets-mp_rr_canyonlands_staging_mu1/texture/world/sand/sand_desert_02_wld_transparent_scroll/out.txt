@@ -1,0 +1,12 @@
+[18:01:20] [I] Material Info for 'sand_desert_02_wld_transparent_scroll' (7059470DD2D3D817)
+[18:01:20] [I] > Flags: 001D0300
+[18:01:20] [I] > Unk2: 0
+[18:01:20] [I] > Unk3: 1F5A92BD
+[18:01:20] [I] > ShaderSet: 27ee156ee8f56d34 (LOADED)
+[18:01:20] [I] > 6 textures:
+[18:01:20] [I] >> 0: 0xb5d5b0e26547be47 - sand_desert_02_wld_transparent_scroll_albedoTexture.dds
+[18:01:20] [I] >> 1: 0xc8cca0777d357be0 - sand_desert_02_wld_transparent_scroll_normalTexture.dds
+[18:01:22] [I] >> 2: 0xd3075bfe8314acde - sand_desert_02_wld_transparent_scroll_glossTexture.dds
+[18:01:22] [I] >> 3: 0x89c8039d324c8213 - sand_desert_02_wld_transparent_scroll_detailTexture.dds
+[18:01:22] [I] >> 4: 0x9cbef332189b9024 - sand_desert_02_wld_transparent_scroll_detailNormalTexture.dds
+[18:01:22] [I] >> 5: 0x1c252d467e014ae9 - sand_desert_02_wld_transparent_scroll_layerBlendTexture.dds

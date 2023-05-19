@@ -1,0 +1,11 @@
+[17:52:05] [I] Material Info for 'mcor_floor_panel_02' (F5E801F4C69947A7)
+[17:52:05] [I] > Flags: 001D0300
+[17:52:05] [I] > Unk2: 0
+[17:52:05] [I] > Unk3: 1F5A92BD
+[17:52:05] [I] > ShaderSet: 3645665cfbb1dd75 (LOADED)
+[17:52:05] [I] > 5 textures:
+[17:52:05] [I] >> 0: 0x453cb05b4aa87e6b - (no assigned name)
+[17:52:05] [I] >> 1: 0xdab35db8a945ab8f - (no assigned name)
+[17:52:05] [I] >> 2: 0x1d13ec6c2c2946a2 - (no assigned name)
+[17:52:05] [I] >> 3: 0x8b14f1ebdf8bd96e - (no assigned name)
+[17:52:05] [I] >> 4: 0xb2f1605bc9a51d97 - (no assigned name)

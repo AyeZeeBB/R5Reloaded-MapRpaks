@@ -1,0 +1,18 @@
+[17:48:34] [I] Material Info for 'canyonlands_crater_mud_02_to_sand_desert_02_reverse_wld' (9193C33C594F1985)
+[17:48:34] [I] > Flags: 001D0300
+[17:48:34] [I] > Unk2: 0
+[17:48:34] [I] > Unk3: 1F5A92BD
+[17:48:34] [I] > ShaderSet: 796f497f597a028a (LOADED)
+[17:48:34] [I] > 12 textures:
+[17:48:34] [I] >> 0: 0xb5d5b0e26547be47 - canyonlands_crater_mud_02_to_sand_desert_02_reverse_wld_albedoTexture.dds
+[17:48:34] [I] >> 1: 0xf613997b09119f4e - canyonlands_crater_mud_02_to_sand_desert_02_reverse_wld_albedo2Texture.dds
+[17:48:34] [I] >> 2: 0xc8cca0777d357be0 - canyonlands_crater_mud_02_to_sand_desert_02_reverse_wld_normalTexture.dds
+[17:48:36] [I] >> 3: 0xcacd6817ff7d4177 - canyonlands_crater_mud_02_to_sand_desert_02_reverse_wld_normal2Texture.dds
+[17:48:36] [I] >> 4: 0xd3075bfe8314acde - canyonlands_crater_mud_02_to_sand_desert_02_reverse_wld_glossTexture.dds
+[17:48:36] [I] >> 5: 0x96a0784c052aad7 - canyonlands_crater_mud_02_to_sand_desert_02_reverse_wld_gloss2Texture.dds
+[17:48:36] [I] >> 6: 0x28853cb26685df70 - canyonlands_crater_mud_02_to_sand_desert_02_reverse_wld_spec2Texture.dds
+[17:48:36] [I] >> 7: 0x89c8039d324c8213 - canyonlands_crater_mud_02_to_sand_desert_02_reverse_wld_detailTexture.dds
+[17:48:36] [I] >> 8: 0x45621726db88e6fd - canyonlands_crater_mud_02_to_sand_desert_02_reverse_wld_detail2Texture.dds
+[17:48:36] [I] >> 9: 0x9cbef332189b9024 - canyonlands_crater_mud_02_to_sand_desert_02_reverse_wld_detailNormalTexture.dds
+[17:48:36] [I] >> 10: 0xa09034cb4c123f24 - canyonlands_crater_mud_02_to_sand_desert_02_reverse_wld_detailNormal2Texture.dds
+[17:48:36] [I] >> 11: 0x5287d8cce6aa2279 - canyonlands_crater_mud_02_to_sand_desert_02_reverse_wld_layerBlendTexture.dds[17:48:36]

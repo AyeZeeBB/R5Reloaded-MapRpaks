@@ -1,0 +1,13 @@
+[17:53:36] [I] Material Info for 'dam_concrete_02_grey_wet_vc_bm' (FFF243F6742E9DA3)
+[17:53:36] [I] > Flags: 001D0300
+[17:53:36] [I] > Unk2: 0
+[17:53:36] [I] > Unk3: 1F5A92BD
+[17:53:36] [I] > ShaderSet: b9bd266850014b76 (LOADED)
+[17:53:36] [I] > 7 textures:
+[17:53:36] [I] >> 0: 0xffbcdeb70fe3cc8a - dam_concrete_02_grey_wet_vc_bm_albedoTexture.dds
+[17:53:36] [I] >> 1: 0x92c5ade6752e4717 - dam_concrete_02_grey_wet_vc_bm_albedo2Texture.dds
+[17:53:36] [I] >> 2: 0x96b44152f3e13e1e - dam_concrete_02_grey_wet_vc_bm_normalTexture.dds
+[17:53:36] [I] >> 3: 0x96b44152f3e13e1e - dam_concrete_02_grey_wet_vc_bm_normal2Texture.dds
+[17:53:36] [I] >> 4: 0xe07c7ae234086972 - dam_concrete_02_grey_wet_vc_bm_glossTexture.dds
+[17:53:36] [I] >> 5: 0x327fc35c7afd01e4 - dam_concrete_02_grey_wet_vc_bm_specTexture.dds
+[17:53:36] [I] >> 6: 0x8ff0ec35371cf1ba - dam_concrete_02_grey_wet_vc_bm_layerBlendTexture.dds

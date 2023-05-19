@@ -1,0 +1,15 @@
+[17:56:37] [I] Material Info for 'sand_desert_02_to_research_station_painted_firing_range' (7E31288FD9436A8E)
+[17:56:37] [I] > Flags: 001D0300
+[17:56:37] [I] > Unk2: 0
+[17:56:37] [I] > Unk3: 1F5A92BD
+[17:56:37] [I] > ShaderSet: a1c1c287ad6cd6ff (LOADED)
+[17:56:37] [I] > 9 textures:
+[17:56:37] [I] >> 0: 0xb5d5b0e26547be47 - sand_desert_02_to_research_station_painted_firing_range_albedoTexture.dds
+[17:56:37] [I] >> 1: 0x85de01f8cee346fb - sand_desert_02_to_research_station_painted_firing_range_albedo2Texture.dds
+[17:56:37] [I] >> 2: 0xc8cca0777d357be0 - sand_desert_02_to_research_station_painted_firing_range_normalTexture.dds
+[17:56:39] [I] >> 3: 0x7e0c055c754ac451 - sand_desert_02_to_research_station_painted_firing_range_normal2Texture.dds
+[17:56:39] [I] >> 4: 0xd3075bfe8314acde - sand_desert_02_to_research_station_painted_firing_range_glossTexture.dds
+[17:56:39] [I] >> 5: 0x897a851561b15c57 - sand_desert_02_to_research_station_painted_firing_range_gloss2Texture.dds
+[17:56:39] [I] >> 6: 0x89c8039d324c8213 - sand_desert_02_to_research_station_painted_firing_range_detailTexture.dds
+[17:56:39] [I] >> 7: 0x9cbef332189b9024 - sand_desert_02_to_research_station_painted_firing_range_detailNormalTexture.dds
+[17:56:39] [I] >> 8: 0x5287d8cce6aa2279 - sand_desert_02_to_research_station_painted_firing_range_layerBlendTexture.dds

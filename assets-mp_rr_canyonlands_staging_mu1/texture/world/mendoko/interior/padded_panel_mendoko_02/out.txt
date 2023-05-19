@@ -1,0 +1,11 @@
+[17:51:24] [I] Material Info for 'padded_panel_mendoko_02' (2BBAB0DAEEB0E442)
+[17:51:24] [I] > Flags: 001D0300
+[17:51:24] [I] > Unk2: 0
+[17:51:24] [I] > Unk3: 1F5A92BD
+[17:51:24] [I] > ShaderSet: 3645665cfbb1dd75 (LOADED)
+[17:51:24] [I] > 5 textures:
+[17:51:24] [I] >> 0: 0x9044d4b2e29db56d - (no assigned name)
+[17:51:24] [I] >> 1: 0x87045e1fa8fd35b3 - (no assigned name)
+[17:51:24] [I] >> 2: 0xc91f1fdb5254a3ff - (no assigned name)
+[17:51:24] [I] >> 3: 0xf5d1fae689da104f - (no assigned name)
+[17:51:24] [I] >> 4: 0xabc7db7ed3c03add - (no assigned name)

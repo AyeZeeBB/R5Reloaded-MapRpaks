@@ -1,0 +1,15 @@
+[17:44:48] [I] Material Info for 'concrete_wall_dirty_02_wet_bm' (822CCB24249A996A)
+[17:44:48] [I] > Flags: 001D0300
+[17:44:48] [I] > Unk2: 0
+[17:44:48] [I] > Unk3: 1F5A92BD
+[17:44:48] [I] > ShaderSet: 9816fbca1df35c1 (NOT LOADED)
+[17:44:48] [I] > 9 textures:
+[17:44:48] [I] >> 0: 0xf42fe3d666b08e13 - (no assigned name)
+[17:44:48] [I] >> 1: 0x7c9f01b0be8f52ff - (no assigned name)
+[17:44:48] [I] >> 2: 0x90c9b5777efe1c36 - (no assigned name)
+[17:44:48] [I] >> 3: 0x90c9b5777efe1c36 - (no assigned name)
+[17:44:48] [I] >> 4: 0x5cc8788b181fd9d1 - (no assigned name)
+[17:44:48] [I] >> 5: 0x99d0accc9e55e62c - (no assigned name)
+[17:44:48] [I] >> 6: 0x10bc5c6e4b13b3a9 - (no assigned name)
+[17:44:48] [I] >> 7: 0x60b81348797155ab - (no assigned name)
+[17:44:48] [I] >> 8: 0x5a7f603a7f6a1ab5 - (no assigned name)

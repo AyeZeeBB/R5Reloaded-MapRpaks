@@ -1,0 +1,10 @@
+[18:03:19] [I] Material Info for 'kodai_caution_stripe_decals_vert' (FFEC607691EED1D9)
+[18:03:19] [I] > Flags: 001D0300
+[18:03:19] [I] > Unk2: 0
+[18:03:19] [I] > Unk3: 1F5A92BD
+[18:03:19] [I] > ShaderSet: b5ee320ab6a247e8 (LOADED)
+[18:03:19] [I] > 4 textures:
+[18:03:19] [I] >> 0: 0xea817a8f55fc224f - kodai_caution_stripe_decals_vert_albedoTexture.dds
+[18:03:19] [I] >> 1: 0xe0a721e2c5da9001 - kodai_caution_stripe_decals_vert_normalTexture.dds
+[18:03:19] [I] >> 2: 0x22c1e39e6f31fe4d - kodai_caution_stripe_decals_vert_glossTexture.dds
+[18:03:19] [I] >> 3: 0x4f74bea9a08394ac - kodai_caution_stripe_decals_vert_specTexture.dds

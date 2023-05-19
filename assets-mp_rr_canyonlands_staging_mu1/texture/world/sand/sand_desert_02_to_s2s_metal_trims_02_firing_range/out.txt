@@ -1,0 +1,17 @@
+[17:55:44] [I] Material Info for 'sand_desert_02_to_s2s_metal_trims_02_firing_range' (B5413650DBC03927)
+[17:55:44] [I] > Flags: 001D0300
+[17:55:44] [I] > Unk2: 0
+[17:55:44] [I] > Unk3: 1F5A92BD
+[17:55:44] [I] > ShaderSet: 24cc2ee4fbdc7238 (LOADED)
+[17:55:44] [I] > 11 textures:
+[17:55:44] [I] >> 0: 0xb5d5b0e26547be47 - sand_desert_02_to_s2s_metal_trims_02_firing_range_albedoTexture.dds
+[17:55:44] [I] >> 1: 0x28ee9ebeba25a4f4 - sand_desert_02_to_s2s_metal_trims_02_firing_range_albedo2Texture.dds
+[17:55:44] [I] >> 2: 0xc8cca0777d357be0 - sand_desert_02_to_s2s_metal_trims_02_firing_range_normalTexture.dds
+[17:55:46] [I] >> 3: 0xa80c5881108b43e5 - sand_desert_02_to_s2s_metal_trims_02_firing_range_normal2Texture.dds
+[17:55:46] [I] >> 4: 0xd3075bfe8314acde - sand_desert_02_to_s2s_metal_trims_02_firing_range_glossTexture.dds
+[17:55:46] [I] >> 5: 0xdde0bc1e9d8b9b86 - sand_desert_02_to_s2s_metal_trims_02_firing_range_gloss2Texture.dds
+[17:55:46] [I] >> 6: 0x70d61302645e076e - sand_desert_02_to_s2s_metal_trims_02_firing_range_spec2Texture.dds
+[17:55:46] [I] >> 7: 0xa4e6d9f7e18a6ca7 - sand_desert_02_to_s2s_metal_trims_02_firing_range_ao2Texture.dds
+[17:55:46] [I] >> 8: 0x89c8039d324c8213 - sand_desert_02_to_s2s_metal_trims_02_firing_range_detailTexture.dds
+[17:55:46] [I] >> 9: 0x9cbef332189b9024 - sand_desert_02_to_s2s_metal_trims_02_firing_range_detailNormalTexture.dds
+[17:55:46] [I] >> 10: 0x5287d8cce6aa2279 - sand_desert_02_to_s2s_metal_trims_02_firing_range_layerBlendTexture.dds

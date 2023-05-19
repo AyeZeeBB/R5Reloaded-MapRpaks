@@ -1,0 +1,11 @@
+[17:57:39] [I] Material Info for 'beacon_metal_panel_grey_03_lighter_vc' (E3CFA75B78BEC3A0)
+[17:57:39] [I] > Flags: 001D0300
+[17:57:39] [I] > Unk2: 0
+[17:57:39] [I] > Unk3: 1F5A92BD
+[17:57:39] [I] > ShaderSet: 7793c3c015eae573 (NOT LOADED)
+[17:57:39] [I] > 5 textures:
+[17:57:39] [I] >> 0: 0x90f4411a2a1a77bf - (no assigned name)
+[17:57:39] [I] >> 1: 0x382c5d4adeb3f56e - (no assigned name)
+[17:57:39] [I] >> 2: 0x828e78f3121ed446 - (no assigned name)
+[17:57:39] [I] >> 3: 0xe7a71e587042108e - (no assigned name)
+[17:57:39] [I] >> 4: 0xee9aaaf79b32306 - (no assigned name)

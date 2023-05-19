@@ -1,0 +1,9 @@
+[17:59:31] [I] Material Info for 'ts_window01_dark_v1_opaque' (5B0F76B0836232EC)
+[17:59:31] [I] > Flags: 001D0300
+[17:59:31] [I] > Unk2: 0
+[17:59:31] [I] > Unk3: 1F5A92BD
+[17:59:31] [I] > ShaderSet: 979f9c43e798959e (LOADED)
+[17:59:31] [I] > 3 textures:
+[17:59:31] [I] >> 0: 0x196fd8b991234ed5 - ts_window01_dark_v1_opaque_albedoTexture.dds
+[17:59:31] [I] >> 1: 0x984e508dc2f973df - ts_window01_dark_v1_opaque_normalTexture.dds
+[17:59:31] [I] >> 2: 0x3168f5bdfe1c522c - ts_window01_dark_v1_opaque_glossTexture.dds

@@ -1,0 +1,11 @@
+[18:00:59] [I] Material Info for 'wf_floating_greeble_01' (1618B2FF9FAC77BE)
+[18:00:59] [I] > Flags: 001D0300
+[18:00:59] [I] > Unk2: 0
+[18:00:59] [I] > Unk3: 1F5A92BD
+[18:00:59] [I] > ShaderSet: 8a67a74dd0b0bea0 (LOADED)
+[18:00:59] [I] > 5 textures:
+[18:00:59] [I] >> 0: 0x7120926fd23cf7df - wf_floating_greeble_01_albedoTexture.dds
+[18:00:59] [I] >> 1: 0x846473115764e358 - wf_floating_greeble_01_normalTexture.dds
+[18:00:59] [I] >> 2: 0x8e9f2e9812d60d0a - wf_floating_greeble_01_glossTexture.dds
+[18:00:59] [I] >> 3: 0x55869514385f83d5 - wf_floating_greeble_01_specTexture.dds
+[18:00:59] [I] >> 4: 0x5d3e0a6862ab41e6 - wf_floating_greeble_01_opacityMultiplyTexture.dds
