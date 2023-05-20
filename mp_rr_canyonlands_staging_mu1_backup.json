@@ -19,10 +19,6 @@
     {
       "$type": "txtrlist",
       "textures": [
-        "texture/world/floors/rubber_floor_2/rubber_floor_2_albedoTexture",
-        "texture/world/floors/rubber_floor_2/rubber_floor_2_normalTexture",
-        "texture/world/floors/rubber_floor_2/rubber_floor_2_glossTexture",
-        "texture/world/floors/rubber_floor_2/rubber_floor_2_cavityTexture"
       ]
     },
     {
