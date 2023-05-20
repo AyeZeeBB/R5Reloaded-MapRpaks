@@ -1,0 +1,50 @@
+{
+  "$mapversion": 1,
+  "version": 8,
+  "keepDevOnly": true,
+
+  "assetsDir": "./assets-mp_rr_canyonlands_staging_mu1/",
+  "outputDir": "./build/",
+  "name": "mp_rr_canyonlands_staging_mu1",
+ "starpakPath": "paks/Win64/mp_rr_canyonlands_staging_mu1.starpak",
+  "files": [
+    {
+      "$type": "shds",
+      "path": "FixedVertexShaderSet",
+      "textures": 6,
+      "samplers": 3,
+      "vertex": 15390381051536392122,
+      "pixel": 6842977824030297585
+    },
+    {
+      "$type": "txtrlist",
+      "textures": [
+        "texture/models/firingrange/firing_range_weapon_rack/0x9dfb8c96a907a8fe",
+        "texture/models/firingrange/firing_range_weapon_rack/0x28b4a8dd2e5d3b3c",
+        "texture/models/firingrange/firing_range_weapon_rack/0xb99589f2367d7126",
+        "texture/models/firingrange/firing_range_weapon_rack/0xcba5a661ceea1fa6",
+        "texture/models/firingrange/firing_range_weapon_rack/0xd714261ab51ce1bb"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "models/firingrange/firing_range_weapon_rack/firing_range_weapon_rack",
+      "type": "rgdp",
+      "shaderset": 14504094420058426309,
+      "width": 1024,
+      "height": 1024,
+      "textures": [        
+      "texture/models/firingrange/firing_range_weapon_rack/0x9dfb8c96a907a8fe",
+      "texture/models/firingrange/firing_range_weapon_rack/0xcba5a661ceea1fa6",
+      "texture/models/firingrange/firing_range_weapon_rack/0xb99589f2367d7126",
+      "texture/models/firingrange/firing_range_weapon_rack/0x28b4a8dd2e5d3b3c",
+      "texture/models/firingrange/firing_range_weapon_rack/0xd714261ab51ce1bb"
+    ]
+    },
+    {
+      "$type": "rmdl",
+      "path": "mdl/canyonlands/firing_range_weapon_rack.rmdl",
+      "usePhysics": false
+    }
+  ]
+}

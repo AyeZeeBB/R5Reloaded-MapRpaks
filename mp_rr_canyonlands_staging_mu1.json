@@ -192,7 +192,12 @@
       "shaderset": 3134464214606249681,
       "width": 1024,
       "height": 1024,
-      "textures": ["_col", "_nml", "_gls/_exp", "_spc", "_ilm", "_ao", "_cav/cvt"]
+      "textures": [        
+      "texture/world/boomtown/RUBBER_TILE_01/0x29eca4d68ac2a5e6",
+      "texture/world/boomtown/RUBBER_TILE_01/0x3ce3946b5e763224",
+      "texture/world/boomtown/RUBBER_TILE_01/0x471e4ff26a893913",
+      "texture/world/boomtown/RUBBER_TILE_01/0xe05b66e520c5474"
+    ]
     },
     {
       "$type": "matl",
