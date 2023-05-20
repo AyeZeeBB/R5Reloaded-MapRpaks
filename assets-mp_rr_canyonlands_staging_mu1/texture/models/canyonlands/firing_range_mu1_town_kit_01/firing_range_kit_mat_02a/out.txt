@@ -1,0 +1,11 @@
+[17:53:13] [I] Material Info for 'firing_range_kit_mat_01b' (6908144591FF992)
+[17:53:13] [I] > Flags: 001D0300
+[17:53:13] [I] > Unk2: 0
+[17:53:13] [I] > Unk3: 1F5A92BD
+[17:53:13] [I] > ShaderSet: 3645665cfbb1dd75 (LOADED)
+[17:53:13] [I] > 5 textures:
+[17:53:13] [I] >> 0: 0x32f571999ab6da47 - (no assigned name)
+[17:53:13] [I] >> 1: 0xc72fbfcde74c6055 - (no assigned name)
+[17:53:13] [I] >> 2: 0x94a81895f051f19 - (no assigned name)
+[17:53:13] [I] >> 3: 0x35fd5c949056b578 - (no assigned name)
+[17:53:13] [I] >> 4: 0x591ad86f6767361a - (no assigned name)

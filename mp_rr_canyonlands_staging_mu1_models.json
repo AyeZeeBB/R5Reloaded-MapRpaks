@@ -25,7 +25,17 @@
         "texture/models/firingrange/firing_range_weapon_rack/0xcba5a661ceea1fa6",
         "texture/models/firingrange/firing_range_weapon_rack/0xd714261ab51ce1bb",
         "texture/world/utility/weapon_rack_orange_light/weapon_rack_orange_light_albedoTexture",
-        "texture/world/utility/weapon_rack_orange_light/weapon_rack_orange_light_emissiveTexture"
+        "texture/world/utility/weapon_rack_orange_light/weapon_rack_orange_light_emissiveTexture",
+
+        "texture/world/metal/gen_painted_metal_01/0xfdcbbc67dac90bad",
+        "texture/world/metal/gen_painted_metal_01/0xf39100e0edb93273",
+        "texture/world/metal/gen_painted_metal_01/0xe09a114be23320bc",
+
+        "texture/models/canyonlands/firing_range_mu1_town_kit_01/firing_range_kit_mat_02a/0xe2cdfd68824a1a51",
+        "texture/models/canyonlands/firing_range_mu1_town_kit_01/firing_range_kit_mat_02a/0xd98d86d52fda42d3",
+        "texture/models/canyonlands/firing_range_mu1_town_kit_01/firing_range_kit_mat_02a/0x485b239c10b71d6f",
+        "texture/models/canyonlands/firing_range_mu1_town_kit_01/firing_range_kit_mat_02a/0x1ba84890d931b11f",
+        "texture/models/canyonlands/firing_range_mu1_town_kit_01/firing_range_kit_mat_02a/0x6c56ade0e09dca77"
       ]
     },
     {
@@ -59,9 +69,59 @@
       ]
     },
     {
+      "$type": "matl",
+      "path": "world/metal/gen_painted_metal_01",
+      "type": "rgdp",
+      "shaderset": 3918825562514114522,
+      "width": 2048,
+      "height": 2048,
+      "textures": [        
+      "texture/world/metal/gen_painted_metal_01/0xfdcbbc67dac90bad",
+      "texture/world/metal/gen_painted_metal_01/0xf39100e0edb93273",
+      "",
+      "",
+      "",
+      "texture/world/metal/gen_painted_metal_01/0xe09a114be23320bc"
+    ]
+    },
+    {
+      "$type": "matl",
+      "path": "models/canyonlands/firing_range_mu1_town_kit_01/firing_range_kit_mat_02a",
+      "type": "rgdp",
+      "shaderset": 3918825562514114522,
+      "width": 1024,
+      "height": 1024,
+      "textures": [        
+        "texture/models/canyonlands/firing_range_mu1_town_kit_01/firing_range_kit_mat_02a/0xe2cdfd68824a1a51",
+        "texture/models/canyonlands/firing_range_mu1_town_kit_01/firing_range_kit_mat_02a/0xd98d86d52fda42d3",
+        "texture/models/canyonlands/firing_range_mu1_town_kit_01/firing_range_kit_mat_02a/0x1ba84890d931b11f",
+        "texture/models/canyonlands/firing_range_mu1_town_kit_01/firing_range_kit_mat_02a/0x485b239c10b71d6f",
+        "",
+        "texture/models/canyonlands/firing_range_mu1_town_kit_01/firing_range_kit_mat_02a/0x6c56ade0e09dca77"
+      ]
+    },
+    {
       "$type": "rmdl",
       "path": "mdl/canyonlands/firing_range_weapon_rack.rmdl",
       "materials": ["world/utility/weapon_rack_orange_light_rgdp", "models/firingrange/firing_range_weapon_rack/firing_range_weapon_rack_rgdp"],
+      "usePhysics": false
+    },
+    {
+      "$type": "rmdl",
+      "path": "mdl/canyonlands/firing_range_weapon_rack_base.rmdl",
+      "materials": ["world/metal/gen_painted_metal_01_rgdp"],
+      "usePhysics": false
+    },
+    {
+      "$type": "rmdl",
+      "path": "mdl/canyonlands/firing_range_kit_wall_01a.rmdl",
+      "materials": ["models/canyonlands/firing_range_mu1_town_kit_01/firing_range_kit_mat_02a_rgdp"],
+      "usePhysics": false
+    },
+    {
+      "$type": "rmdl",
+      "path": "mdl/canyonlands/firing_range_kit_wall_02a.rmdl",
+      "materials": ["models/canyonlands/firing_range_mu1_town_kit_01/firing_range_kit_mat_02a_rgdp"],
       "usePhysics": false
     }
   ]
