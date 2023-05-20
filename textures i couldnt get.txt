@@ -1,9 +1,0 @@
-//mp_rr_canyonlands_staging_mu1
-world/s2s/s2s_wall_trim_01_vc
-world/metal/s2s_metal_trims_02_vc_dirty_bm
-models/world/dev/dev_gray_512
-world/sleek_city/gold_tests/olympus_gold_trim
-world/s2s/s2s_metal_trims_clean_02_vc
-world/s2s/s2s_wall_trim_clean_01_vc
-world/walls/olympus_lab_trim_01
-world/metal/s2s_elevator_trim_01_to_rust_bm
