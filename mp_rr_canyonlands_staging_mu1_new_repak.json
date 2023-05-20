@@ -1,0 +1,903 @@
+{
+  "$mapversion": 1,
+  "version": 8,
+  "keepDevOnly": true,
+
+  "assetsDir": "./assets-mp_rr_canyonlands_staging_mu1/",
+  "outputDir": "./build/",
+  "name": "mp_rr_canyonlands_staging_mu1",
+
+  "files": [
+    {
+      "$type": "txtr",
+      "path": "texture/world/timeshift/windows/ts_window01_dark_v1_opaque/ts_window01_dark_v1_opaque_albedoTexture"
+    },
+    {
+          "$type": "txtr",
+          "path": "texture/world/timeshift/windows/ts_window01_dark_v1_opaque/ts_window01_dark_v1_opaque_glossTexture"
+    },
+    {
+          "$type": "txtr",
+          "path": "texture/world/utility/divided_solar_panel_01a/divided_solar_panel_01a_albedoTexture"
+    },
+    {
+          "$type": "txtr",
+          "path": "texture/world/utility/divided_solar_panel_01a/divided_solar_panel_01a_aoTexture"
+    },
+    {
+          "$type": "txtr",
+          "path": "texture/world/utility/divided_solar_panel_01a/divided_solar_panel_01a_glossTexture"
+    },
+    {
+          "$type": "txtr",
+          "path": "texture/world/utility/divided_solar_panel_01a/divided_solar_panel_01a_normalTexture"
+    },
+    {
+          "$type": "txtr",
+          "path": "texture/world/utility/divided_solar_panel_01a/divided_solar_panel_01a_specTexture"
+    },
+    {
+          "$type": "txtr",
+          "path": "texture/world/utility/light_strip_01_vc/light_strip_01_vc_albedoTexture"
+    },
+    {
+          "$type": "txtr",
+          "path": "texture/world/utility/light_strip_01_vc/light_strip_01_vc_emissiveTexture"
+    },
+    {
+          "$type": "txtr",
+          "path": "texture/world/water/water_dirty_03_vert_alpha/0x4adfb3f21715d08d"
+    },
+    {
+          "$type": "txtr",
+          "path": "texture/world/water/water_dirty_03_vert_alpha/0xc70d78a18a85dbb1"
+    },
+    {
+          "$type": "txtr",
+          "path": "texture/world/water/water_dirty_03_vert_alpha/0xd75df2a459a26119"
+    },
+    {
+          "$type": "txtr",
+          "path": "texture/world/metal/olympus_painted_metal/olympus_metal_painted_01_vc/0x7351001cc6b54d3a"
+    },
+    {
+          "$type": "txtr",
+          "path": "texture/world/metal/olympus_painted_metal/olympus_metal_painted_01_vc/0xbe4cfddded63df96"
+    },
+    {
+          "$type": "txtr",
+          "path": "texture/world/metal/olympus_painted_metal/olympus_metal_painted_01_vc/0xdc599d80fb87336a"
+    },
+    {
+          "$type": "txtr",
+          "path": "texture/world/metal/research_station/research_station_painted_metal_01_vc/0x7e0c055c754ac451"
+    },
+    {
+          "$type": "txtr",
+          "path": "texture/world/metal/research_station/research_station_painted_metal_01_vc/0x8128064d5588329a"
+    },
+    {
+          "$type": "txtr",
+          "path": "texture/world/metal/research_station/research_station_painted_metal_01_vc/0x897a851561b15c57"
+    },
+    {
+          "$type": "txtr",
+          "path": "texture/world/sand/sand_blend_firing_range/0x13662f0be3f9b1f1"
+    },
+    {
+          "$type": "txtr",
+          "path": "texture/world/sand/sand_blend_firing_range/0x42f58cccc5fbd6be"
+    },
+    {
+          "$type": "txtr",
+          "path": "texture/world/sand/sand_blend_firing_range/0xd9581fb1a68ab41b"
+    },
+    {
+          "$type": "txtr",
+          "path": "texture/world/sand/sand_blend_firing_range/0x1bcf24241bb03c98"
+    },
+    {
+          "$type": "txtr",
+          "path": "texture/world/boomtown/RUBBER_TILE_01/0x29eca4d68ac2a5e6"
+    },
+    {
+          "$type": "txtr",
+          "path": "texture/world/boomtown/RUBBER_TILE_01/0x3ce3946b5e763224"
+    },
+    {
+          "$type": "txtr",
+          "path": "texture/world/boomtown/RUBBER_TILE_01/0x471e4ff26a893913"
+    },
+    {
+          "$type": "txtr",
+          "path": "texture/world/boomtown/RUBBER_TILE_01/0xe05b66e520c5474"
+    },
+    {
+          "$type": "txtr",
+          "path": "texture/world/s2s/s2s_wall_trim_clean_01_vc/s2s_wall_trim_clean_01_vc_albedoTexture"
+    },
+    {
+          "$type": "txtr",
+          "path": "texture/world/s2s/s2s_wall_trim_clean_01_vc/s2s_wall_trim_clean_01_vc_aoTexture"
+    },
+    {
+          "$type": "txtr",
+          "path": "texture/world/s2s/s2s_wall_trim_clean_01_vc/s2s_wall_trim_clean_01_vc_glossTexture"
+    },
+    {
+          "$type": "txtr",
+          "path": "texture/world/s2s/s2s_wall_trim_clean_01_vc/s2s_wall_trim_clean_01_vc_normalTexture"
+    },
+    {
+          "$type": "txtr",
+          "path": "texture/world/s2s/s2s_wall_trim_clean_01_vc/s2s_wall_trim_clean_01_vc_specTexture"
+    },
+    {
+          "$type": "txtr",
+          "path": "texture/models/canyonlands/firing_range_mu1_town_kit_01/firing_range_kit_mat_01b/0x32f571999ab6da47"
+    },
+    {
+          "$type": "txtr",
+          "path": "texture/models/canyonlands/firing_range_mu1_town_kit_01/firing_range_kit_mat_01b/0x35fd5c949056b578"
+    },
+    {
+          "$type": "txtr",
+          "path": "texture/models/canyonlands/firing_range_mu1_town_kit_01/firing_range_kit_mat_01b/0x591ad86f6767361a"
+    },
+    {
+          "$type": "txtr",
+          "path": "texture/models/canyonlands/firing_range_mu1_town_kit_01/firing_range_kit_mat_01b/0x94a81895f051f19"
+    },
+    {
+          "$type": "txtr",
+          "path": "texture/models/canyonlands/firing_range_mu1_town_kit_01/firing_range_kit_mat_01b/0xc72fbfcde74c6055"
+    },
+    {
+          "$type": "txtr",
+          "path": "texture/world/boomtown/wf_floating_greeble_01/wf_floating_greeble_01_albedoTexture"
+    },
+    {
+          "$type": "txtr",
+          "path": "texture/world/boomtown/wf_floating_greeble_01/wf_floating_greeble_01_glossTexture"
+    },
+    {
+          "$type": "txtr",
+          "path": "texture/world/boomtown/wf_floating_greeble_01/wf_floating_greeble_01_normalTexture"
+    },
+    {
+          "$type": "txtr",
+          "path": "texture/world/boomtown/wf_floating_greeble_01/wf_floating_greeble_01_opacityMultiplyTexture"
+    },
+    {
+          "$type": "txtr",
+          "path": "texture/world/boomtown/wf_floating_greeble_01/wf_floating_greeble_01_specTexture"
+    },
+    {
+          "$type": "txtr",
+          "path": "texture/world/sand/sand_desert_02_wld_transparent_scroll/sand_desert_02_wld_transparent_scroll_albedoTexture"
+    },
+    {
+          "$type": "txtr",
+          "path": "texture/world/sand/sand_desert_02_wld_transparent_scroll/sand_desert_02_wld_transparent_scroll_detailTexture"
+    },
+    {
+          "$type": "txtr",
+          "path": "texture/world/sand/sand_desert_02_wld_transparent_scroll/sand_desert_02_wld_transparent_scroll_layerBlendTexture"
+    },
+    {
+          "$type": "txtr",
+          "path": "texture/world/sand/sand_desert_02_wld_transparent_scroll/sand_desert_02_wld_transparent_scroll_normalTexture"
+    },
+    {
+          "$type": "txtr",
+          "path": "texture/world/sand/sand_desert_02_to_beacon_metal_panel_grey/sand_desert_02_to_beacon_metal_panel_grey_albedo2Texture"
+    },
+    {
+          "$type": "txtr",
+          "path": "texture/world/sand/sand_desert_02_to_beacon_metal_panel_grey/sand_desert_02_to_beacon_metal_panel_grey_albedoTexture"
+    },
+    {
+          "$type": "txtr",
+          "path": "texture/world/sand/sand_desert_02_to_beacon_metal_panel_grey/sand_desert_02_to_beacon_metal_panel_grey_ao2Texture"
+    },
+    {
+          "$type": "txtr",
+          "path": "texture/world/sand/sand_desert_02_to_beacon_metal_panel_grey/sand_desert_02_to_beacon_metal_panel_grey_detailNormalTexture"
+    },
+    {
+          "$type": "txtr",
+          "path": "texture/world/sand/sand_desert_02_to_beacon_metal_panel_grey/sand_desert_02_to_beacon_metal_panel_grey_detailTexture"
+    },
+    {
+          "$type": "txtr",
+          "path": "texture/world/sand/sand_desert_02_to_beacon_metal_panel_grey/sand_desert_02_to_beacon_metal_panel_grey_gloss2Texture"
+    },
+    {
+          "$type": "txtr",
+          "path": "texture/world/sand/sand_desert_02_to_beacon_metal_panel_grey/sand_desert_02_to_beacon_metal_panel_grey_glossTexture"
+    },
+    {
+          "$type": "txtr",
+          "path": "texture/world/sand/sand_desert_02_to_beacon_metal_panel_grey/sand_desert_02_to_beacon_metal_panel_grey_layerBlendTexture"
+    },
+    {
+          "$type": "txtr",
+          "path": "texture/world/sand/sand_desert_02_to_beacon_metal_panel_grey/sand_desert_02_to_beacon_metal_panel_grey_normal2Texture"
+    },
+    {
+          "$type": "txtr",
+          "path": "texture/world/sand/sand_desert_02_to_beacon_metal_panel_grey/sand_desert_02_to_beacon_metal_panel_grey_normalTexture"
+    },
+    {
+          "$type": "txtr",
+          "path": "texture/world/sand/sand_desert_02_to_beacon_metal_panel_grey/sand_desert_02_to_beacon_metal_panel_grey_spec2Texture"
+    },
+    {
+          "$type": "txtr",
+          "path": "texture/world/sand/sand_desert_02_to_research_station_painted_firing_range/sand_desert_02_to_research_station_painted_firing_range_albedo2Texture"
+    },
+    {
+          "$type": "txtr",
+          "path": "texture/world/sand/sand_desert_02_to_research_station_painted_firing_range/sand_desert_02_to_research_station_painted_firing_range_albedoTexture"
+    },
+    {
+          "$type": "txtr",
+          "path": "texture/world/sand/sand_desert_02_to_research_station_painted_firing_range/sand_desert_02_to_research_station_painted_firing_range_detailNormalTexture"
+    },
+    {
+          "$type": "txtr",
+          "path": "texture/world/sand/sand_desert_02_to_research_station_painted_firing_range/sand_desert_02_to_research_station_painted_firing_range_detailTexture"
+    },
+    {
+          "$type": "txtr",
+          "path": "texture/world/sand/sand_desert_02_to_research_station_painted_firing_range/sand_desert_02_to_research_station_painted_firing_range_gloss2Texture"
+    },
+    {
+          "$type": "txtr",
+          "path": "texture/world/sand/sand_desert_02_to_research_station_painted_firing_range/sand_desert_02_to_research_station_painted_firing_range_glossTexture"
+    },
+    {
+          "$type": "txtr",
+          "path": "texture/world/sand/sand_desert_02_to_research_station_painted_firing_range/sand_desert_02_to_research_station_painted_firing_range_layerBlendTexture"
+    },
+    {
+          "$type": "txtr",
+          "path": "texture/world/sand/sand_desert_02_to_research_station_painted_firing_range/sand_desert_02_to_research_station_painted_firing_range_normal2Texture"
+    },
+    {
+          "$type": "txtr",
+          "path": "texture/world/sand/sand_desert_02_to_research_station_painted_firing_range/sand_desert_02_to_research_station_painted_firing_range_normalTexture"
+    },
+    {
+          "$type": "txtr",
+          "path": "texture/world/sand/sand_desert_02_to_s2s_metal_trims_02_firing_range/sand_desert_02_to_s2s_metal_trims_02_firing_range_albedo2Texture"
+    },
+    {
+          "$type": "txtr",
+          "path": "texture/world/sand/sand_desert_02_to_s2s_metal_trims_02_firing_range/sand_desert_02_to_s2s_metal_trims_02_firing_range_albedoTexture"
+    },
+    {
+          "$type": "txtr",
+          "path": "texture/world/sand/sand_desert_02_to_s2s_metal_trims_02_firing_range/sand_desert_02_to_s2s_metal_trims_02_firing_range_ao2Texture"
+    },
+    {
+          "$type": "txtr",
+          "path": "texture/world/sand/sand_desert_02_to_s2s_metal_trims_02_firing_range/sand_desert_02_to_s2s_metal_trims_02_firing_range_detailNormalTexture"
+    },
+    {
+          "$type": "txtr",
+          "path": "texture/world/sand/sand_desert_02_to_s2s_metal_trims_02_firing_range/sand_desert_02_to_s2s_metal_trims_02_firing_range_detailTexture"
+    },
+    {
+          "$type": "txtr",
+          "path": "texture/world/sand/sand_desert_02_to_s2s_metal_trims_02_firing_range/sand_desert_02_to_s2s_metal_trims_02_firing_range_gloss2Texture"
+    },
+    {
+          "$type": "txtr",
+          "path": "texture/world/sand/sand_desert_02_to_s2s_metal_trims_02_firing_range/sand_desert_02_to_s2s_metal_trims_02_firing_range_glossTexture"
+    },
+    {
+          "$type": "txtr",
+          "path": "texture/world/sand/sand_desert_02_to_s2s_metal_trims_02_firing_range/sand_desert_02_to_s2s_metal_trims_02_firing_range_layerBlendTexture"
+    },
+    {
+          "$type": "txtr",
+          "path": "texture/world/sand/sand_desert_02_to_s2s_metal_trims_02_firing_range/sand_desert_02_to_s2s_metal_trims_02_firing_range_normal2Texture"
+    },
+    {
+          "$type": "txtr",
+          "path": "texture/world/sand/sand_desert_02_to_s2s_metal_trims_02_firing_range/sand_desert_02_to_s2s_metal_trims_02_firing_range_normalTexture"
+    },
+    {
+          "$type": "txtr",
+          "path": "texture/world/sand/sand_desert_02_to_s2s_metal_trims_02_firing_range/sand_desert_02_to_s2s_metal_trims_02_firing_range_spec2Texture"
+    },
+    {
+          "$type": "txtr",
+          "path": "texture/world/sand/sand_desert_02_to_s2s_metal_trims_clean_02/sand_desert_02_to_s2s_metal_trims_clean_02_albedo2Texture"
+    },
+    {
+          "$type": "txtr",
+          "path": "texture/world/sand/sand_desert_02_to_s2s_metal_trims_clean_02/sand_desert_02_to_s2s_metal_trims_clean_02_albedoTexture"
+    },
+    {
+          "$type": "txtr",
+          "path": "texture/world/sand/sand_desert_02_to_s2s_metal_trims_clean_02/sand_desert_02_to_s2s_metal_trims_clean_02_ao2Texture"
+    },
+    {
+          "$type": "txtr",
+          "path": "texture/world/sand/sand_desert_02_to_s2s_metal_trims_clean_02/sand_desert_02_to_s2s_metal_trims_clean_02_detailNormalTexture"
+    },
+    {
+          "$type": "txtr",
+          "path": "texture/world/sand/sand_desert_02_to_s2s_metal_trims_clean_02/sand_desert_02_to_s2s_metal_trims_clean_02_detailTexture"
+    },
+    {
+          "$type": "txtr",
+          "path": "texture/world/sand/sand_desert_02_to_s2s_metal_trims_clean_02/sand_desert_02_to_s2s_metal_trims_clean_02_gloss2Texture"
+    },
+    {
+          "$type": "txtr",
+          "path": "texture/world/sand/sand_desert_02_to_s2s_metal_trims_clean_02/sand_desert_02_to_s2s_metal_trims_clean_02_glossTexture"
+    },
+    {
+          "$type": "txtr",
+          "path": "texture/world/sand/sand_desert_02_to_s2s_metal_trims_clean_02/sand_desert_02_to_s2s_metal_trims_clean_02_layerBlendTexture"
+    },
+    {
+          "$type": "txtr",
+          "path": "texture/world/sand/sand_desert_02_to_s2s_metal_trims_clean_02/sand_desert_02_to_s2s_metal_trims_clean_02_normal2Texture"
+    },
+    {
+          "$type": "txtr",
+          "path": "texture/world/sand/sand_desert_02_to_s2s_metal_trims_clean_02/sand_desert_02_to_s2s_metal_trims_clean_02_normalTexture"
+    },
+    {
+          "$type": "txtr",
+          "path": "texture/world/sand/sand_desert_02_to_s2s_metal_trims_clean_02/sand_desert_02_to_s2s_metal_trims_clean_02_spec2Texture"
+    },
+    {
+          "$type": "txtr",
+          "path": "texture/world/decal/firingrange_duel_pit_decal_sheet_01/firingrange_duel_pit_decal_sheet_01_albedoTexture"
+    },
+    {
+          "$type": "txtr",
+          "path": "texture/world/decal/firingrange_duel_pit_decal_sheet_01/firingrange_duel_pit_decal_sheet_01_glossTexture"
+    },
+    {
+          "$type": "txtr",
+          "path": "texture/world/decal/firingrange_duel_pit_decal_sheet_01/firingrange_duel_pit_decal_sheet_01_normalTexture"
+    },
+    {
+          "$type": "txtr",
+          "path": "texture/world/decal/firingrange_duel_pit_decal_sheet_01/firingrange_duel_pit_decal_sheet_01_opacityMultiplyTexture"
+    },
+    {
+          "$type": "txtr",
+          "path": "texture/world/decal/firingrange_vert_course_decal_sheet_01/firingrange_vert_course_decal_sheet_01_albedoTexture"
+    },
+    {
+          "$type": "txtr",
+          "path": "texture/world/decal/firingrange_vert_course_decal_sheet_01/firingrange_vert_course_decal_sheet_01_glossTexture"
+    },
+    {
+          "$type": "txtr",
+          "path": "texture/world/decal/firingrange_vert_course_decal_sheet_01/firingrange_vert_course_decal_sheet_01_normalTexture"
+    },
+    {
+          "$type": "txtr",
+          "path": "texture/world/decal/firingrange_vert_course_decal_sheet_01/firingrange_vert_course_decal_sheet_01_opacityMultiplyTexture"
+    },
+    {
+          "$type": "txtr",
+          "path": "texture/world/decal/firing_range_01/firingrange_town_decal_sheet_01a/firingrange_town_decal_sheet_01a_albedoTexture"
+    },
+    {
+          "$type": "txtr",
+          "path": "texture/world/decal/firing_range_01/firingrange_town_decal_sheet_01a/firingrange_town_decal_sheet_01a_aoTexture"
+    },
+    {
+          "$type": "txtr",
+          "path": "texture/world/decal/firing_range_01/firingrange_town_decal_sheet_01a/firingrange_town_decal_sheet_01a_glossTexture"
+    },
+    {
+          "$type": "txtr",
+          "path": "texture/world/decal/firing_range_01/firingrange_town_decal_sheet_01a/firingrange_town_decal_sheet_01a_normalTexture"
+    },
+    {
+          "$type": "txtr",
+          "path": "texture/world/decal/firing_range_01/firingrange_town_decal_sheet_01a/firingrange_town_decal_sheet_01a_opacityMultiplyTexture"
+    },
+    {
+          "$type": "txtr",
+          "path": "texture/world/decal/firing_range_01/firingrange_town_decal_sheet_01a/firingrange_town_decal_sheet_01a_specTexture"
+    },
+    {
+          "$type": "txtr",
+          "path": "texture/models/utilities/wire_ceiling_mounts/wire_ceiling_mounts_albedoTexture"
+    },
+    {
+          "$type": "txtr",
+          "path": "texture/models/utilities/wire_ceiling_mounts/wire_ceiling_mounts_aoTexture"
+    },
+    {
+          "$type": "txtr",
+          "path": "texture/models/utilities/wire_ceiling_mounts/wire_ceiling_mounts_glossTexture"
+    },
+    {
+          "$type": "txtr",
+          "path": "texture/models/utilities/wire_ceiling_mounts/wire_ceiling_mounts_normalTexture"
+    },
+    {
+          "$type": "txtr",
+          "path": "texture/models/utilities/wire_ceiling_mounts/wire_ceiling_mounts_specTexture"
+    },
+    {
+          "$type": "txtr",
+          "path": "texture/world/sleek_city/gold_tests/olympus_gold_trim/olympus_gold_trim_albedoTexture"
+    },
+    {
+          "$type": "txtr",
+          "path": "texture/world/sleek_city/gold_tests/olympus_gold_trim/olympus_gold_trim_aoTexture"
+    },
+    {
+          "$type": "txtr",
+          "path": "texture/world/sleek_city/gold_tests/olympus_gold_trim/olympus_gold_trim_glossTexture"
+    },
+    {
+          "$type": "txtr",
+          "path": "texture/world/sleek_city/gold_tests/olympus_gold_trim/olympus_gold_trim_normalTexture"
+    },
+    {
+          "$type": "txtr",
+          "path": "texture/world/sleek_city/gold_tests/olympus_gold_trim/olympus_gold_trim_specTexture"
+    },
+    {
+      "$type": "matl",
+      "path": "world/decal/firingrange_duel_pit_decal_sheet_01",
+      "type": "wldc",
+      "depthStencilFlags": 7,
+      "rasterizerFlags": 22,
+      "unkFlags": 5,
+      "shaderset": "0x2CE352DDA2B303B2",
+      "width": 2048,
+      "height": 2048,
+      "textures": [
+        "texture/world/decal/firingrange_duel_pit_decal_sheet_01/firingrange_duel_pit_decal_sheet_01_albedoTexture",
+        "texture/world/decal/firingrange_duel_pit_decal_sheet_01/firingrange_duel_pit_decal_sheet_01_normalTexture",
+        "texture/world/decal/firingrange_duel_pit_decal_sheet_01/firingrange_duel_pit_decal_sheet_01_glossTexture",
+        "",
+        "",
+        "",
+        "",
+        "texture/world/decal/firingrange_duel_pit_decal_sheet_01/firingrange_duel_pit_decal_sheet_01_opacityMultiplyTexture"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "world/decal/firingrange_vert_course_decal_sheet_01",
+      "type": "wldc",
+      "shaderset": "0x2CE352DDA2B303B2",
+      "width": 4096,
+      "height": 4096,
+      "textures": [
+        "texture/world/decal/firingrange_vert_course_decal_sheet_01/firingrange_vert_course_decal_sheet_01_albedoTexture",
+        "texture/world/decal/firingrange_vert_course_decal_sheet_01/firingrange_vert_course_decal_sheet_01_normalTexture",
+        "texture/world/decal/firingrange_vert_course_decal_sheet_01/firingrange_vert_course_decal_sheet_01_glossTexture",
+        "",
+        "",
+        "",
+        "",
+        "texture/world/decal/firingrange_vert_course_decal_sheet_01/firingrange_vert_course_decal_sheet_01_opacityMultiplyTexture"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "world/decal/firing_range_01/firingrange_town_decal_sheet_01a",
+      "type": "wldc",
+      "shaderset": "0x2CE352DDA2B303B2",
+      "width": 2048,
+      "height": 2048,
+      "textures": [
+        "texture/world/decal/firing_range_01/firingrange_town_decal_sheet_01a/firingrange_town_decal_sheet_01a_albedoTexture",
+        "texture/world/decal/firing_range_01/firingrange_town_decal_sheet_01a/firingrange_town_decal_sheet_01a_normalTexture",
+        "texture/world/decal/firing_range_01/firingrange_town_decal_sheet_01a/firingrange_town_decal_sheet_01a_glossTexture",
+        "texture/world/decal/firing_range_01/firingrange_town_decal_sheet_01a/firingrange_town_decal_sheet_01a_specTexture",
+        "",
+        "texture/world/decal/firing_range_01/firingrange_town_decal_sheet_01a/firingrange_town_decal_sheet_01a_aoTexture",
+        "",
+        "texture/world/decal/firing_range_01/firingrange_town_decal_sheet_01a/firingrange_town_decal_sheet_01a_opacityMultiplyTexture"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "world/water/water_dirty_03_vert_alpha",
+      "type": "wldc",
+      "shaderset": "0x2CE352DDA2B303B2",
+      "width": 1024,
+      "height": 1024,
+      "textures": ["", "", "", "", "", "", ""]
+    },
+    {
+      "$type": "matl",
+      "path": "world/water/canyonlands_river_water_foam_dirty_01",
+      "type": "wldc",
+      "shaderset": "0x2CE352DDA2B303B2",
+      "width": 1024,
+      "height": 1024,
+      "textures": ["", "", "", "", "", "", ""]
+    },
+    {
+      "$type": "matl",
+      "path": "world/utilities/wire_ceiling_mounts",
+      "type": "wldc",
+      "shaderset": "0x2B7FDA9898C77ED1",
+      "width": 1024,
+      "height": 1024,
+      "textures": [        
+        "texture/models/utilities/wire_ceiling_mounts/wire_ceiling_mounts_albedoTexture",
+        "texture/models/utilities/wire_ceiling_mounts/wire_ceiling_mounts_normalTexture",
+        "texture/models/utilities/wire_ceiling_mounts/wire_ceiling_mounts_glossTexture",
+        "texture/models/utilities/wire_ceiling_mounts/wire_ceiling_mounts_specTexture",
+        "",
+        "texture/models/utilities/wire_ceiling_mounts/wire_ceiling_mounts_aoTexture"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "world/s2s/s2s_wall_trim_clean_01",
+      "type": "wldc",
+      "shaderset": "0x2B7FDA9898C77ED1",
+      "width": 2048,
+      "height": 2048,
+      "textures": [        
+        "texture/world/s2s/s2s_wall_trim_clean_01_vc/s2s_wall_trim_clean_01_vc_albedoTexture",
+        "texture/world/s2s/s2s_wall_trim_clean_01_vc/s2s_wall_trim_clean_01_vc_normalTexture",
+        "texture/world/s2s/s2s_wall_trim_clean_01_vc/s2s_wall_trim_clean_01_vc_glossTexture",
+        "texture/world/s2s/s2s_wall_trim_clean_01_vc/s2s_wall_trim_clean_01_vc_specTexture",
+        "",
+        "texture/world/s2s/s2s_wall_trim_clean_01_vc/s2s_wall_trim_clean_01_vc_aoTexture"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "world/utility/divided_solar_panel_01a/divided_solar_panel_01a",
+      "type": "wldc",
+      "shaderset": "0x2B7FDA9898C77ED1",
+      "width": 2048,
+      "height": 2048,
+      "textures": [        
+        "texture/world/utility/divided_solar_panel_01a/divided_solar_panel_01a_albedoTexture",
+        "texture/world/utility/divided_solar_panel_01a/divided_solar_panel_01a_normalTexture",
+        "texture/world/utility/divided_solar_panel_01a/divided_solar_panel_01a_glossTexture",
+        "texture/world/utility/divided_solar_panel_01a/divided_solar_panel_01a_specTexture",
+        "",
+        "texture/world/utility/divided_solar_panel_01a/divided_solar_panel_01a_aoTexture"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "world/utility/light_strip_01_vc",
+      "type": "wldc",
+      "shaderset": "0x2B7FDA9898C77ED1",
+      "width": 256,
+      "height": 32,
+      "textures": [        
+        "texture/world/utility/light_strip_01_vc/light_strip_01_vc_albedoTexture",
+        "",
+        "",
+        "",
+        "texture/world/utility/light_strip_01_vc/light_strip_01_vc_emissiveTexture",
+        ""
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "world/boomtown/wf_floating_greeble_01",
+      "type": "wldc",
+      "shaderset": "0x2B7FDA9898C77ED1",
+      "width": 512,
+      "height": 512,
+      "textures": [        
+        "texture/world/boomtown/wf_floating_greeble_01/wf_floating_greeble_01_albedoTexture",
+        "texture/world/boomtown/wf_floating_greeble_01/wf_floating_greeble_01_normalTexture",
+        "texture/world/boomtown/wf_floating_greeble_01/wf_floating_greeble_01_glossTexture",
+        "texture/world/boomtown/wf_floating_greeble_01/wf_floating_greeble_01_specTexture",
+        "",
+        ""
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "models/canyonlands/firing_range_mu1_town_kit_01/firing_range_kit_mat_01b",
+      "type": "wldc",
+      "shaderset": "0x2B7FDA9898C77ED1",
+      "width": 1024,
+      "height": 1024,
+      "textures": [        
+        "texture/models/canyonlands/firing_range_mu1_town_kit_01/firing_range_kit_mat_01b/0x32f571999ab6da47",
+        "texture/models/canyonlands/firing_range_mu1_town_kit_01/firing_range_kit_mat_01b/0xc72fbfcde74c6055",
+        "texture/models/canyonlands/firing_range_mu1_town_kit_01/firing_range_kit_mat_01b/0x94a81895f051f19",
+        "texture/models/canyonlands/firing_range_mu1_town_kit_01/firing_range_kit_mat_01b/0x35fd5c949056b578",
+        "",
+        ""
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "world/boomtown/RUBBER_TILE_01",
+      "type": "wldc",
+      "shaderset": "0x2B7FDA9898C77ED1",
+      "width": 512,
+      "height": 512,
+      "textures": [        
+        "texture/world/boomtown/RUBBER_TILE_01/0xe05b66e520c5474",
+        "texture/world/boomtown/RUBBER_TILE_01/0x3ce3946b5e763224",
+        "texture/world/boomtown/RUBBER_TILE_01/0x471e4ff26a893913",
+        "texture/world/boomtown/RUBBER_TILE_01/0x29eca4d68ac2a5e6",
+        "",
+        ""
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "world/sleek_city/gold_tests/olympus_gold_trim",
+      "type": "wldc",
+      "shaderset": "0x2B7FDA9898C77ED1",
+      "width": 2048,
+      "height": 2048,
+      "textures": [        
+        "texture/world/sleek_city/gold_tests/olympus_gold_trim/olympus_gold_trim_albedoTexture",
+        "texture/world/sleek_city/gold_tests/olympus_gold_trim/olympus_gold_trim_normalTexture",
+        "texture/world/sleek_city/gold_tests/olympus_gold_trim/olympus_gold_trim_glossTexture",
+        "texture/world/sleek_city/gold_tests/olympus_gold_trim/olympus_gold_trim_specTexture",
+        "",
+        "texture/world/sleek_city/gold_tests/olympus_gold_trim/olympus_gold_trim_aoTexture"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "world/timeshift/windows/ts_window01_dark_v1_opaque",
+      "type": "wldc",
+      "shaderset": "0x2B7FDA9898C77ED1",
+      "width": 512,
+      "height": 512,
+      "textures": [        
+        "texture/world/timeshift/windows/ts_window01_dark_v1_opaque/ts_window01_dark_v1_opaque_albedoTexture",
+        "",
+        "texture/world/timeshift/windows/ts_window01_dark_v1_opaque/ts_window01_dark_v1_opaque_glossTexture",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "world/metal/olympus_painted_metal/olympus_metal_painted_01_vc",
+      "type": "wldc",
+      "shaderset": "0x2B7FDA9898C77ED1",
+      "width": 2048,
+      "height": 2048,
+      "textures": [        
+        "texture/world/metal/olympus_painted_metal/olympus_metal_painted_01_vc/0xdc599d80fb87336a",
+        "texture/world/metal/olympus_painted_metal/olympus_metal_painted_01_vc/0x7351001cc6b54d3a",
+        "",
+        "texture/world/metal/olympus_painted_metal/olympus_metal_painted_01_vc/0xbe4cfddded63df96",
+        "",
+        ""
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "world/sand/sand_desert_02_wld_transparent_scroll",
+      "type": "wldc",
+      "depthStencilFlags": 17,
+      "rasterizerFlags": 16,
+      "unkFlags": 5,
+      "shaderset": "0x1B81C587CC037214",
+      "width": 2048,
+      "height": 2048,
+      "textures": [        
+        "texture/world/sand/sand_desert_02_wld_transparent_scroll/sand_desert_02_wld_transparent_scroll_albedoTexture",
+        "texture/world/sand/sand_desert_02_wld_transparent_scroll/sand_desert_02_wld_transparent_scroll_normalTexture",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "texture/world/sand/sand_desert_02_wld_transparent_scroll/sand_desert_02_wld_transparent_scroll_detailTexture",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "texture/world/sand/sand_desert_02_wld_transparent_scroll/sand_desert_02_wld_transparent_scroll_layerBlendTexture"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "world/sand/sand_blend_firing_range",
+      "type": "wldc",
+      "depthStencilFlags": 17,
+      "rasterizerFlags": 16,
+      "unkFlags": 5,
+      "shaderset": "0x1B81C587CC037214",
+      "width": 2048,
+      "height": 1024,
+      "textures": [        
+        "texture/world/sand/sand_blend_firing_range/0xd9581fb1a68ab41b",
+        "texture/world/sand/sand_blend_firing_range/0x42f58cccc5fbd6be",
+        "",
+        "texture/world/sand/sand_blend_firing_range/0x13662f0be3f9b1f1",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "texture/world/sand/sand_blend_firing_range/0x1bcf24241bb03c98"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "world/sand/sand_desert_02_to_beacon_metal_panel_grey",
+      "type": "wldc",
+      "rasterizerFlags": 6,
+      "unkFlags": 4,
+      "shaderset": "0x94AB808CFB7EDF5C",
+      "width": 2048,
+      "height": 2048,
+      "textures": [        
+        "texture/world/sand/sand_desert_02_to_beacon_metal_panel_grey/sand_desert_02_to_beacon_metal_panel_grey_albedo2Texture",
+        "texture/world/sand/sand_desert_02_to_beacon_metal_panel_grey/sand_desert_02_to_beacon_metal_panel_grey_normal2Texture",
+        "texture/world/sand/sand_desert_02_to_beacon_metal_panel_grey/sand_desert_02_to_beacon_metal_panel_grey_gloss2Texture",
+        "texture/world/sand/sand_desert_02_to_beacon_metal_panel_grey/sand_desert_02_to_beacon_metal_panel_grey_spec2Texture",
+        "",
+        "texture/world/sand/sand_desert_02_to_beacon_metal_panel_grey/sand_desert_02_to_beacon_metal_panel_grey_ao2Texture",
+        "",
+        "",
+        "texture/world/sand/sand_desert_02_to_beacon_metal_panel_grey/sand_desert_02_to_beacon_metal_panel_grey_detailTexture",
+        "texture/world/sand/sand_desert_02_to_beacon_metal_panel_grey/sand_desert_02_to_beacon_metal_panel_grey_detailNormalTexture",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "texture/world/sand/sand_desert_02_to_beacon_metal_panel_grey/sand_desert_02_to_beacon_metal_panel_grey_layerBlendTexture",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "texture/world/sand/sand_desert_02_to_beacon_metal_panel_grey/sand_desert_02_to_beacon_metal_panel_grey_albedoTexture",
+        "texture/world/sand/sand_desert_02_to_beacon_metal_panel_grey/sand_desert_02_to_beacon_metal_panel_grey_normalTexture",
+        "texture/world/sand/sand_desert_02_to_beacon_metal_panel_grey/sand_desert_02_to_beacon_metal_panel_grey_glossTexture",
+        ""
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "world/sand/sand_desert_02_to_research_station_painted_firing_range",
+      "type": "wldc",
+      "rasterizerFlags": 6,
+      "unkFlags": 4,
+      "shaderset": "0x94AB808CFB7EDF5C",
+      "width": 2048,
+      "height": 2048,
+      "textures": [        
+        "texture/world/sand/sand_desert_02_to_research_station_painted_firing_range/sand_desert_02_to_research_station_painted_firing_range_albedo2Texture",
+        "texture/world/sand/sand_desert_02_to_research_station_painted_firing_range/sand_desert_02_to_research_station_painted_firing_range_normal2Texture",
+        "texture/world/sand/sand_desert_02_to_research_station_painted_firing_range/sand_desert_02_to_research_station_painted_firing_range_gloss2Texture",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "texture/world/sand/sand_desert_02_to_research_station_painted_firing_range/sand_desert_02_to_research_station_painted_firing_range_detailTexture",
+        "texture/world/sand/sand_desert_02_to_research_station_painted_firing_range/sand_desert_02_to_research_station_painted_firing_range_detailNormalTexture",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "texture/world/sand/sand_desert_02_to_research_station_painted_firing_range/sand_desert_02_to_research_station_painted_firing_range_layerBlendTexture",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "texture/world/sand/sand_desert_02_to_research_station_painted_firing_range/sand_desert_02_to_research_station_painted_firing_range_albedoTexture",
+        "texture/world/sand/sand_desert_02_to_research_station_painted_firing_range/sand_desert_02_to_research_station_painted_firing_range_normalTexture",
+        "texture/world/sand/sand_desert_02_to_research_station_painted_firing_range/sand_desert_02_to_research_station_painted_firing_range_glossTexture",
+        ""
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "world/sand/sand_desert_02_to_s2s_metal_trims_02_firing_range",
+      "type": "wldc",
+      "rasterizerFlags": 6,
+      "unkFlags": 4,
+      "shaderset": "0x94AB808CFB7EDF5C",
+      "width": 2048,
+      "height": 2048,
+      "textures": [        
+        "texture/world/sand/sand_desert_02_to_s2s_metal_trims_02_firing_range/sand_desert_02_to_s2s_metal_trims_02_firing_range_albedo2Texture",
+        "texture/world/sand/sand_desert_02_to_s2s_metal_trims_02_firing_range/sand_desert_02_to_s2s_metal_trims_02_firing_range_normal2Texture",
+        "texture/world/sand/sand_desert_02_to_s2s_metal_trims_02_firing_range/sand_desert_02_to_s2s_metal_trims_02_firing_range_gloss2Texture",
+        "texture/world/sand/sand_desert_02_to_s2s_metal_trims_02_firing_range/sand_desert_02_to_s2s_metal_trims_02_firing_range_spec2Texture",
+        "",
+        "texture/world/sand/sand_desert_02_to_s2s_metal_trims_02_firing_range/sand_desert_02_to_s2s_metal_trims_02_firing_range_ao2Texture",
+        "",
+        "",
+        "texture/world/sand/sand_desert_02_to_s2s_metal_trims_02_firing_range/sand_desert_02_to_s2s_metal_trims_02_firing_range_detailTexture",
+        "texture/world/sand/sand_desert_02_to_s2s_metal_trims_02_firing_range/sand_desert_02_to_s2s_metal_trims_02_firing_range_detailNormalTexture",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "texture/world/sand/sand_desert_02_to_s2s_metal_trims_02_firing_range/sand_desert_02_to_s2s_metal_trims_02_firing_range_layerBlendTexture",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "texture/world/sand/sand_desert_02_to_s2s_metal_trims_02_firing_range/sand_desert_02_to_s2s_metal_trims_02_firing_range_albedoTexture",
+        "texture/world/sand/sand_desert_02_to_s2s_metal_trims_02_firing_range/sand_desert_02_to_s2s_metal_trims_02_firing_range_normalTexture",
+        "texture/world/sand/sand_desert_02_to_s2s_metal_trims_02_firing_range/sand_desert_02_to_s2s_metal_trims_02_firing_range_glossTexture",
+        ""
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "world/sand/sand_desert_02_to_s2s_metal_trims_clean_02",
+      "type": "wldc",
+      "rasterizerFlags": 6,
+      "unkFlags": 4,
+      "shaderset": "0x94AB808CFB7EDF5C",
+      "width": 2048,
+      "height": 2048,
+      "textures": [        
+        "texture/world/sand/sand_desert_02_to_s2s_metal_trims_clean_02/sand_desert_02_to_s2s_metal_trims_clean_02_albedo2Texture",
+        "texture/world/sand/sand_desert_02_to_s2s_metal_trims_clean_02/sand_desert_02_to_s2s_metal_trims_clean_02_normal2Texture",
+        "texture/world/sand/sand_desert_02_to_s2s_metal_trims_clean_02/sand_desert_02_to_s2s_metal_trims_clean_02_gloss2Texture",
+        "texture/world/sand/sand_desert_02_to_s2s_metal_trims_clean_02/sand_desert_02_to_s2s_metal_trims_clean_02_spec2Texture",
+        "",
+        "texture/world/sand/sand_desert_02_to_s2s_metal_trims_clean_02/sand_desert_02_to_s2s_metal_trims_clean_02_ao2Texture",
+        "",
+        "",
+        "texture/world/sand/sand_desert_02_to_s2s_metal_trims_clean_02/sand_desert_02_to_s2s_metal_trims_clean_02_detailTexture",
+        "texture/world/sand/sand_desert_02_to_s2s_metal_trims_clean_02/sand_desert_02_to_s2s_metal_trims_clean_02_detailNormalTexture",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "texture/world/sand/sand_desert_02_to_s2s_metal_trims_clean_02/sand_desert_02_to_s2s_metal_trims_clean_02_layerBlendTexture",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "texture/world/sand/sand_desert_02_to_s2s_metal_trims_clean_02/sand_desert_02_to_s2s_metal_trims_clean_02_albedoTexture",
+        "texture/world/sand/sand_desert_02_to_s2s_metal_trims_clean_02/sand_desert_02_to_s2s_metal_trims_clean_02_normalTexture",
+        "texture/world/sand/sand_desert_02_to_s2s_metal_trims_clean_02/sand_desert_02_to_s2s_metal_trims_clean_02_glossTexture",
+        ""
+      ]
+    }
+  ]
+}
