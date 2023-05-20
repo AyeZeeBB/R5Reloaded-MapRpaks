@@ -1,0 +1,13 @@
+[17:47:47] [I] Material Info for 'divided_solar_panel_01a' (1237B2074E3C7309)
+[17:47:47] [I] > Flags: 001D0300
+[17:47:47] [I] > Unk2: 0
+[17:47:47] [I] > Unk3: 1F5A92BD
+[17:47:47] [I] > ShaderSet: aa6287e2281b81fe (LOADED)
+[17:47:47] [I] > 7 textures:
+[17:47:47] [I] >> 0: 0xa23332773abf162f - divided_solar_panel_01a_albedoTexture.dds
+[17:47:47] [I] >> 1: 0x3843c1edbe3ea65f - divided_solar_panel_01a_normalTexture.dds
+[17:47:48] [I] >> 2: 0x81bf0a7053254869 - divided_solar_panel_01a_glossTexture.dds
+[17:47:48] [I] >> 3: 0xe80b7407a437979b - divided_solar_panel_01a_specTexture.dds
+[17:47:48] [I] >> 4: 0x1081c490a097bcfd - divided_solar_panel_01a_aoTexture.dds
+[17:47:48] [I] >> 5: 0x95ab52b114c0d316 - divided_solar_panel_01a_opacityMultiplyTexture.dds
+[17:47:48] [I] >> 6: 0x2fd66102d68fae3e - divided_solar_panel_01a_iridescenceRampTexture.dds

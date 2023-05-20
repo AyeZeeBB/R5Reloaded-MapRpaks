@@ -23,27 +23,45 @@
         "texture/models/firingrange/firing_range_weapon_rack/0x28b4a8dd2e5d3b3c",
         "texture/models/firingrange/firing_range_weapon_rack/0xb99589f2367d7126",
         "texture/models/firingrange/firing_range_weapon_rack/0xcba5a661ceea1fa6",
-        "texture/models/firingrange/firing_range_weapon_rack/0xd714261ab51ce1bb"
+        "texture/models/firingrange/firing_range_weapon_rack/0xd714261ab51ce1bb",
+        "texture/world/utility/weapon_rack_orange_light/weapon_rack_orange_light_albedoTexture",
+        "texture/world/utility/weapon_rack_orange_light/weapon_rack_orange_light_emissiveTexture"
       ]
     },
     {
       "$type": "matl",
       "path": "models/firingrange/firing_range_weapon_rack/firing_range_weapon_rack",
       "type": "rgdp",
-      "shaderset": 14504094420058426309,
-      "width": 1024,
-      "height": 1024,
+      "shaderset": 3918825562514114522,
+      "width": 2048,
+      "height": 2048,
       "textures": [        
-      "texture/models/firingrange/firing_range_weapon_rack/0x9dfb8c96a907a8fe",
-      "texture/models/firingrange/firing_range_weapon_rack/0xcba5a661ceea1fa6",
-      "texture/models/firingrange/firing_range_weapon_rack/0xb99589f2367d7126",
-      "texture/models/firingrange/firing_range_weapon_rack/0x28b4a8dd2e5d3b3c",
-      "texture/models/firingrange/firing_range_weapon_rack/0xd714261ab51ce1bb"
-    ]
+        "texture/models/firingrange/firing_range_weapon_rack/0xb99589f2367d7126",
+        "texture/models/firingrange/firing_range_weapon_rack/0xcba5a661ceea1fa6",
+        "texture/models/firingrange/firing_range_weapon_rack/0xd714261ab51ce1bb",
+        "texture/models/firingrange/firing_range_weapon_rack/0x9dfb8c96a907a8fe"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "world/utility/weapon_rack_orange_light",
+      "type": "rgdp",
+      "shaderset": 8478937216910593768,
+      "width": 256,
+      "height": 32,
+      "textures": [        
+        "texture/world/utility/weapon_rack_orange_light/weapon_rack_orange_light_albedoTexture",
+        "",
+        "",
+        "",
+        "texture/world/utility/weapon_rack_orange_light/weapon_rack_orange_light_emissiveTexture",
+        ""
+      ]
     },
     {
       "$type": "rmdl",
       "path": "mdl/canyonlands/firing_range_weapon_rack.rmdl",
+      "materials": ["world/utility/weapon_rack_orange_light_rgdp", "models/firingrange/firing_range_weapon_rack/firing_range_weapon_rack_rgdp"],
       "usePhysics": false
     }
   ]
