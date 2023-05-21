@@ -161,7 +161,27 @@
         "texture/models/canyonlands/firing_range_mu1_town_kit_01/firing_range_kit_mat_02a/0xd98d86d52fda42d3",
         "texture/models/canyonlands/firing_range_mu1_town_kit_01/firing_range_kit_mat_02a/0x485b239c10b71d6f",
         "texture/models/canyonlands/firing_range_mu1_town_kit_01/firing_range_kit_mat_02a/0x1ba84890d931b11f",
-        "texture/models/canyonlands/firing_range_mu1_town_kit_01/firing_range_kit_mat_02a/0x6c56ade0e09dca77"
+        "texture/models/canyonlands/firing_range_mu1_town_kit_01/firing_range_kit_mat_02a/0x6c56ade0e09dca77",
+
+        "texture/world/floors/rubber_floor_2/rubber_floor_2_albedoTexture",
+        "texture/world/floors/rubber_floor_2/rubber_floor_2_normalTexture",
+        "texture/world/floors/rubber_floor_2/rubber_floor_2_glossTexture",
+        "texture/world/floors/rubber_floor_2/rubber_floor_2_cavityTexture",
+
+        "texture/world/walls/building_walls_metal_03/0xb78352541bdef894",
+        "texture/world/walls/building_walls_metal_03/0x75689098a42639d0",
+        "texture/world/walls/building_walls_metal_03/0xe4362d5f7ecf3e7b",
+        "texture/world/walls/building_walls_metal_03/0x7e0f2512ea830606",
+
+        "texture/world/concrete/concrete_wall_dirty_02_wet_bm/0xf42fe3d666b08e13",
+        "texture/world/concrete/concrete_wall_dirty_02_wet_bm/0x90c9b5777efe1c36",
+        "texture/world/concrete/concrete_wall_dirty_02_wet_bm/0x7c9f01b0be8f52ff",
+        "texture/world/concrete/concrete_wall_dirty_02_wet_bm/0x99d0accc9e55e62c",
+        "texture/world/concrete/concrete_wall_dirty_02_wet_bm/0x5cc8788b181fd9d1",
+        "texture/world/concrete/concrete_wall_dirty_02_wet_bm/0x99d0accc9e55e62c",
+        "texture/world/concrete/concrete_wall_dirty_02_wet_bm/0xf42fe3d666b08e13",
+        "texture/world/concrete/concrete_wall_dirty_02_wet_bm/0x60b81348797155ab",
+        "texture/world/concrete/concrete_wall_dirty_02_wet_bm/0x5a7f603a7f6a1ab5"
       ]
     },
     {
@@ -613,6 +633,44 @@
     },
     {
       "$type": "matl",
+      "path": "world/concrete/concrete_wall_dirty_02_wet_bm",
+      "type": "rgdp",
+      "drawflags": 6,
+      "unkflags": 4,
+      "shaderset": 10712797481634029404,
+      "width": 2048,
+      "height": 2048,
+      "textures": [        
+        "texture/world/concrete/concrete_wall_dirty_02_wet_bm/0xf42fe3d666b08e13",
+        "texture/world/concrete/concrete_wall_dirty_02_wet_bm/0x90c9b5777efe1c36",
+        "texture/world/concrete/concrete_wall_dirty_02_wet_bm/0x7c9f01b0be8f52ff",
+        "texture/world/concrete/concrete_wall_dirty_02_wet_bm/0x99d0accc9e55e62c",
+        "",
+        "texture/world/concrete/concrete_wall_dirty_02_wet_bm/0x5cc8788b181fd9d1",
+        "",
+        "",
+        "texture/world/concrete/concrete_wall_dirty_02_wet_bm/0x99d0accc9e55e62c",
+        "texture/world/concrete/concrete_wall_dirty_02_wet_bm/0xf42fe3d666b08e13",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "texture/world/concrete/concrete_wall_dirty_02_wet_bm/0x60b81348797155ab",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "texture/world/concrete/concrete_wall_dirty_02_wet_bm/0x5a7f603a7f6a1ab5",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "$type": "matl",
       "path": "models/firingrange/firing_range_weapon_rack/firing_range_weapon_rack",
       "type": "rgdp",
       "shaderset": 3918825562514114522,
@@ -651,10 +709,44 @@
       "textures": [        
       "texture/world/metal/gen_painted_metal_01/0xfdcbbc67dac90bad",
       "texture/world/metal/gen_painted_metal_01/0xf39100e0edb93273",
+      "texture/world/metal/gen_painted_metal_01/0xe09a114be23320bc",
+      "",
+      "",
+      ""
+    ]
+    },
+    {
+      "$type": "matl",
+      "path": "world/floor/rubber_floor_2",
+      "type": "rgdp",
+      "shaderset": 3918825562514114522,
+      "width": 2048,
+      "height": 2048,
+      "textures": [        
+      "texture/world/floors/rubber_floor_2/rubber_floor_2_albedoTexture",
+      "texture/world/floors/rubber_floor_2/rubber_floor_2_normalTexture",
+      "texture/world/floors/rubber_floor_2/rubber_floor_2_glossTexture",
       "",
       "",
       "",
-      "texture/world/metal/gen_painted_metal_01/0xe09a114be23320bc"
+      "texture/world/floors/rubber_floor_2/rubber_floor_2_cavityTexture"
+    ]
+    },
+    {
+      "$type": "matl",
+      "path": "world/walls/building_walls_metal_03",
+      "type": "rgdp",
+      "shaderset": 3918825562514114522,
+      "width": 2048,
+      "height": 2048,
+      "textures": [        
+      "texture/world/walls/building_walls_metal_03/0xb78352541bdef894",
+      "texture/world/walls/building_walls_metal_03/0x75689098a42639d0",
+      "texture/world/walls/building_walls_metal_03/0xe4362d5f7ecf3e7b",
+      "",
+      "",
+      "texture/world/walls/building_walls_metal_03/0x7e0f2512ea830606",
+      ""
     ]
     },
     {
@@ -681,12 +773,6 @@
     },
     {
       "$type": "rmdl",
-      "path": "mdl/canyonlands/firing_range_weapon_rack_base.rmdl",
-      "materials": ["world/metal/gen_painted_metal_01_rgdp"],
-      "usePhysics": false
-    },
-    {
-      "$type": "rmdl",
       "path": "mdl/canyonlands/firing_range_kit_wall_01a.rmdl",
       "materials": ["models/canyonlands/firing_range_mu1_town_kit_01/firing_range_kit_mat_02a_rgdp"],
       "usePhysics": false
@@ -699,8 +785,19 @@
     },
     {
       "$type": "rmdl",
-      "path": "mdl/canyonlands/firing_range_kit_wall_03a.rmdl",
-      "materials": ["models/canyonlands/firing_range_mu1_town_kit_01/firing_range_kit_mat_02a_rgdp"],
+      "path": "mdl/canyonlands/firing_range_weapon_rack_base.rmdl",
+      "materials": ["world/metal/gen_painted_metal_01_rgdp"],
+      "usePhysics": false
+    },
+    {
+      "$type": "rmdl",
+      "path": "mdl/canyonlands/firing_range_belfry_primary_ext_01a.rmdl",
+      "materials": [
+        "world/concrete/concrete_wall_dirty_02_wet_bm_rgdp",
+        "world/boomtown/boomtown_solid_grate_01_rgdp",
+        "world/floors/rubber_floor_2_rgdp",
+        "world/walls/building_walls_metal_03_rgdp"
+    ],
       "usePhysics": false
     }
   ]
